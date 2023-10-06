@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+---
+hide:
+  - navigation
+  - toc
+---
+<section markdown style="display: flex;">
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<div markdown>
+# Welcome to SysteMatic
+Prevention, Precision and Equity by Design for People Living with Multiple Long Term Conditions
 
-## Commands
+## Embedding a Triple Learning System
+Continuous long-term learning and co-innovation for better prevention, care and system monitoring of multiple long term conditions. 
+</div>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<figure markdown>
+![Triple Flywheel Learning Health System](assets/triple-flywheel.png){ width="400" }
+</figure>
+</section>

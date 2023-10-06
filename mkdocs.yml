@@ -1,1 +1,21 @@
-site_name: My Docs
+site_name: SysteMatic
+nav:
+  - Home: 'index.md'
+  - 'Design Cooperative':
+    - 'Design Cooperative 0.1': 'design-cooperative/design-coop1.md'
+    - 'Public Involvement': 'design-cooperative/public-engagement.md'
+  - About: 'about.md'
+theme:
+  name: material
+  palette:
+    scheme: systematic
+  logo: assets/logo-notext.png
+  features:
+    - navigation.tabs
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+plugins:
+  - glightbox
