@@ -4,6 +4,7 @@ nav:
   - 'Design Cooperative':
     - 'Design Cooperative 0.1': 'design-cooperative/design-coop1.md'
     - 'Public Involvement': 'design-cooperative/public-engagement.md'
+    - 'How we use data': 'design-cooperative/how-we-use-data.md'
   - About: 'about.md'
 theme:
   name: material
