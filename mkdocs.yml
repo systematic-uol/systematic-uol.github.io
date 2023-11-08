@@ -26,3 +26,4 @@ markdown_extensions:
       alternate_style: true
 plugins:
   - glightbox
+  - search
