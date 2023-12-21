@@ -4,8 +4,9 @@ nav:
   - About: 'about.md'
   - 'Design Cooperative':
     - 'Design Cooperative 0.1': 'design-cooperative/design-coop1.md'
-    - 'Public Involvement': 'design-cooperative/public-engagement.md'
-    - 'How we use data': 'design-cooperative/how-we-use-data.md'
+    - 'People Insights': 'design-cooperative/people-insights'
+    - 'Health Intelligence': 'design-cooperative/health-intelligence'
+    - 'Systems Futures': 'design-cooperative/systems-futures'
   - 'Key Populations':
     - 'Children and Families': 'key-populations/children-and-families.md'
     - 'Working Lives': 'key-populations/working-lives.md'
@@ -17,7 +18,6 @@ theme:
   name: material
   palette:
     scheme: systematic
-  logo: assets/basic-logo.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
