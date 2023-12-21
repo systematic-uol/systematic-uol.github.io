@@ -4,8 +4,10 @@ hide:
   - toc
 ---
 
-# **Welcome to SysteMatic**
-An online platform to share outcomes from the SysteMatic project, and support open dialogue and reflection about prevention, precision and equity by design for people living with Multiple Long-Term Conditions (MLTC).
+# Welcome to SysteMatic
+An online platform to:
+1. Share outcomes and updates from the SysteMatic project.
+2. Support open dialogue and reflection about systems approaches for improving care for people living with Multiple Long-Term Conditions (MLTC).
 
 ### Building an MLTC Triple Learning System
 Continuous long-term learning and co-innovation for better prevention, care and system monitoring of MLTC. 
