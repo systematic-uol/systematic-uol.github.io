@@ -18,6 +18,9 @@ Prevention, Precision and Equity by Design for People Living with Multiple Long 
     ![Triple Flywheel Learning Health System](assets/triple-flywheel.png){ width="400" }
     </figure>
     </section>
+=== "Design Co-operative"
+    The blueprint for a co-operative of people living with multiple long term conditions, health and care professionals, scientists, engineers and designers.
+    Adopting human-centred, inclusive, equitable and participatory design principles.
 === "Three Learning Labs"
     Leveraging big data and ‘thick’ data approaches to offer intelligence & insights across study of systems, people and intelligence.
 
