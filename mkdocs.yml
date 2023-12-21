@@ -10,7 +10,7 @@ theme:
   name: material
   palette:
     scheme: systematic
-  logo: basic logo.png
+  logo: basic-logo.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
