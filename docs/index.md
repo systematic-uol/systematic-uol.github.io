@@ -5,15 +5,16 @@ hide:
 ---
 
 # **Welcome to SysteMatic**
-***Prevention, Precision and Equity by Design for People Living with Multiple Long-Term Conditions***
+An online platform to share outcomes from the SysteMatic project, and support open dialogue and reflection about prevention, precision and equity by design for people living with Multiple Long-Term Conditions (MLTC).
 
-## Embedding a Triple Learning System
-Continuous long-term learning and co-innovation for better prevention, care and system monitoring of multiple long term conditions. 
+### Building an MLTC Triple Learning System
+Continuous long-term learning and co-innovation for better prevention, care and system monitoring of MLTC. 
+ "![Triple Flywheel](assets/triple-flywheel.png)"
 
-## Establishing a Design Co-operative
-The blueprint for a co-operative of people living with multiple long term conditions, health and care professionals, scientists, engineers and designers.
+### Establishing a Design Co-operative
+A co-operative of people with lived and caring experience of MLTC, health and care professionals, scientists, engineers, designers and social scientists.
 Adopting human-centred, inclusive, equitable and participatory design principles.
     
-## Operating Across Three Learning Labs"
+### Operating Across Three Learning Labs
 Leveraging big data and ‘thick’ data approaches to offer intelligence & insights across study of systems, people and intelligence.
 
