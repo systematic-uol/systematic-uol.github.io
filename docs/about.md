@@ -5,13 +5,12 @@ hide:
 ---
 
 # About SysteMatic
+SysteMatic brings together researchers from the Universities of Liverpool and Glasgow to develop a plan to design and engineer health systems for people living with multiple long-term conditions (MLTC).
 
-This is a project we are doing
+This work is supported by funding from the National Institute for Health Research (NIHR) and Engineering and Physical Sciences Research Coucil (EPSRC) Systems Engineering Innovation hubs for Multiple long-term Conditions (SEISMIC) scheme.
 
-## Embedding a Triple Learning System
-We do stuff
 
 ## Contact Details
-Please contact us at [our website](systematic.com). 
+Email us at: seismicstudy@liverpool.ac.uk
 
-### Header 3
+
