@@ -7,12 +7,17 @@ nav:
     - 'People Insights': 'design-cooperative/people-insights.md'
     - 'Health Intelligence': 'design-cooperative/health-intelligence.md'
     - 'Systems Futures': 'design-cooperative/systems-futures.md'
-  - 'Key Populations':
+  - Key Populations:
+    - 'Overview': 'key-populations/overview.md'
     - 'Children and Families': 'key-populations/children-and-families.md'
     - 'Working Lives': 'key-populations/working-lives.md'
     - 'Pre-Frailty': 'key-populations/pre-frailty.md'
-  - Systems Innovation: 'systems-innovation.md'
-  - Digital Commons: 'digital-commons.md' 
+  - Systems Science: 
+    - 'Overview': 'systems-science/overview.md'
+    - 'Systems Optimisation': 'systems-science/optimisation.md'
+    - 'Systems Innovation': 'systems-science/innovation.md'
+    - 'Systems Transition': 'systems-science/transition.md'
+  - Knowledge Commons: 'digital-commons.md' 
   - Partners: 'partners.md'
 theme:
   name: material
