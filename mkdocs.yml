@@ -12,7 +12,7 @@ nav:
     - 'Working Lives': 'key-populations/working-lives.md'
     - 'Pre-Frailty': 'key-populations/pre-frailty.md'
   - Systems Innovation: 'systems-innovation.md'
-  - Living Library: 'living-library.md' 
+  - Digital Commons: 'digital-commons.md' 
   - Partners: 'partners.md'
 theme:
   name: material
