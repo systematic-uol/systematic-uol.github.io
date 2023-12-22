@@ -3,7 +3,7 @@ nav:
   - Home: 'index.md'
   - About: 'about.md'
   - 'Design Cooperative':
-    - 'Design Cooperative 0.1': 'design-cooperative/design-coop1.md'
+    - 'Approach': 'design-cooperative/approach.md'
     - 'People Insights': 'design-cooperative/people-insights.md'
     - 'Health Intelligence': 'design-cooperative/health-intelligence.md'
     - 'Systems Futures': 'design-cooperative/systems-futures.md'
