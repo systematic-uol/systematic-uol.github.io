@@ -1,3 +1,9 @@
+---
+hide:
+- navigation
+- toc
+---
+
 # About the SysteMatic Project
 SysteMatic brings together researchers from the Universities of Liverpool and Glasgow to develop a plan to design and engineer health systems for people living with Multiple Long-Term Conditions (MLTC). 
 
