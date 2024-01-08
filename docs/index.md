@@ -6,12 +6,11 @@ hide:
 
 # Welcome to SysteMatic
 An online platform to:
-* Share outcomes and updates from the SysteMatic project.
-* Support open dialogue and reflection about systems approaches in healthcare and improving care for people living with Multiple Long-Term Conditions (MLTC).
+ <br> Share outcomes and updates from the SysteMatic project.
+ <br> Support open dialogue and reflection about systems approaches in healthcare and improving care for people living with Multiple Long-Term Conditions (MLTC).
 
 ### Building an MLTC Triple Learning System
 Continuous long-term learning and co-innovation for better prevention, care and system monitoring of MLTC. 
- "![Triple Flywheel](assets/triple-flywheel.png)"
 
 ### Establishing a Design Co-operative
 A co-operative of people with lived and caring experience of MLTC, health and care professionals, scientists, engineers, designers and social scientists.
