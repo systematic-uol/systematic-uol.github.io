@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Systems Science
 Our cooperative of disciplines includes systems modelling, systems engineering, systemic design, clinical research, public health research, and health and care commissioning and provision. We apply three orders of systems science to health & care systems, distinguished by: a) how they define a system;
 b) the associated research methods; and c) the tools, frameworks and techniques:
