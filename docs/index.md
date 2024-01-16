@@ -5,8 +5,9 @@ hide:
 ---
 
 # Welcome to the SysteMatic Digital Commons
-
-![SysteMatic Overview](assets/home-placeholder.png){ align=right }
+<figure markdown>
+![SysteMatic Overview](assets/home-placeholder.png){ width="300" }{ align=right }
+</figure>
 
 A platform to:
 - Share outcomes and updates from the SysteMatic project.
