@@ -3,4 +3,4 @@ The pre-frailty segment reflects mid-life through retirement with a focus on mul
 
 ## Updates from our research with the pre-frailty segment
 
-## Resources for researching 
+## Resources for research with pre-frail populations
