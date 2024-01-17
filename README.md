@@ -1,5 +1,5 @@
-# Systematic Web Demo
+# Systematic Digital Commons
 
-Demo site to test MKDocs-based web site generation for use in the Systematic project.
+Website for the Systematic project.
 
 View site here: https://systematic-uol.github.io
