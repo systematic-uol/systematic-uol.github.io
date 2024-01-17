@@ -12,7 +12,11 @@ nav:
     - 'Children and Families': 'key-populations/children-and-families.md'
     - 'Working Lives': 'key-populations/working-lives.md'
     - 'Pre-Frailty': 'key-populations/pre-frailty.md'
-  - Systems Science: 'systems-science/overview.md'
+  - Systems Science: 
+    - 'Overview': 'systems-science/overview.md'
+    - 'Systems Optimisation': 'systems-science/optimisation.md'
+    - 'Systems Innovation': 'systems-science/innovation.md'
+    - 'Systems Transition': 'systems-science/transition.md'
   - Knowledge Commons: 'digital-commons.md' 
   - Partners: 'partners.md'
 theme:
