@@ -12,4 +12,4 @@ b) the associated research methods; and c) the tools, frameworks and techniques.
 cardiovascular risk reduction and social support/prescribing for people taking antipsychotic medication.
 
 <br>
-![Systems Orders](docs/assets/systems-orders.png)
+![Systems Orders](assets/systems-orders.png)
