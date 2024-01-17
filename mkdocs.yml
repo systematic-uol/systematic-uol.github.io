@@ -2,6 +2,9 @@ site_name: SysteMatic
 nav:
   - Home: 'index.md'
   - About: 'about.md'
+  - Partners: 'partners.md'
+  - Knowledge Commons: 'digital-commons.md' 
+  - Glossary: 'glossary.md'
   - 'Design Co-operative':
     - 'Overview': 'design-cooperative/overview.md'
     - 'People Insights': 'design-cooperative/people-insights.md'
@@ -17,8 +20,7 @@ nav:
     - 'Systems Optimisation': 'systems-science/optimisation.md'
     - 'Systems Innovation': 'systems-science/innovation.md'
     - 'Systems Transition': 'systems-science/transition.md'
-  - Knowledge Commons: 'digital-commons.md' 
-  - Partners: 'partners.md'
+  
 theme:
   name: material
   palette:
