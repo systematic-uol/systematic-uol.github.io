@@ -20,6 +20,7 @@ nav:
     - 'Systems Optimisation': 'systems-science/optimisation.md'
     - 'Systems Innovation': 'systems-science/innovation.md'
     - 'Systems Transition': 'systems-science/transition.md'
+    - 'Learning Systems': 'systems-science/triple-learning-system.md'
   
 theme:
   name: material
