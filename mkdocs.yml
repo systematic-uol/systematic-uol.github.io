@@ -32,6 +32,7 @@ theme:
     - content.tabs.link
     - content.tabs
     - navigation.path
+    - navigation.top
 extra_css:
   - stylesheets/extra.css
 markdown_extensions: 
