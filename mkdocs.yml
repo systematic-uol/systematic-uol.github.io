@@ -2,8 +2,6 @@ site_name: SysteMatic
 nav:
   - Home: 'index.md'
   - About: 'about.md'
-  - Knowledge Commons: 'digital-commons.md' 
-  - Glossary: 'glossary.md'
   - Design Co-operative:
     - 'MLTC Design Co-operative': 'design-cooperative/overview.md'
     - 'People Insights': 'design-cooperative/people-insights.md'
@@ -20,6 +18,8 @@ nav:
     - 'Systems Innovation': 'systems-science/innovation.md'
     - 'Systems Transition': 'systems-science/transition.md'
     - 'Learning Systems': 'systems-science/triple-learning-system.md'
+  - Knowledge Commons: 'digital-commons.md' 
+  - Glossary: 'glossary.md'
   
 theme:
   name: material
