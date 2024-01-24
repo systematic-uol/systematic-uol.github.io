@@ -14,3 +14,5 @@ This work is supported by funding from the National Institute for Health Researc
 Email us at: [seismicstudy@liverpool.ac.uk](mailto:seismicstudy@liverpool.ac.uk)
 
 
+## Partners
+Map of partners.
