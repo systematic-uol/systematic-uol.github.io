@@ -2,7 +2,6 @@ site_name: SysteMatic
 nav:
   - Home: 'index.md'
   - About: 'about.md'
-  - Partners: 'partners.md'
   - Knowledge Commons: 'digital-commons.md' 
   - Glossary: 'glossary.md'
   - Design Co-operative:
