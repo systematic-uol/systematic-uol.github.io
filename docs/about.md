@@ -15,4 +15,5 @@ Email us at: [seismicstudy@liverpool.ac.uk](mailto:seismicstudy@liverpool.ac.uk)
 
 
 ## Partners
-Map of partners.
+
+<iframe width="640" height="480" src="https://www.google.com/maps/d/embed?mid=189hH45pFC-zdAhbBRfCuy4WHiiLAT2M&ehbc=2E312F&noprof=1"></iframe>
