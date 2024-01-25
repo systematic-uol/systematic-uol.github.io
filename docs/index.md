@@ -9,7 +9,7 @@ hide:
 A platform to:
 
 - Share outcomes and updates from the SysteMatic project.
-- Support open dialogue and collaboration in systems approaches to improve health and care for people living with Multiple Long-Term Conditions (MLTC).
+- Support collaboration, conversation and learning about the application of systems approaches to improve health and care for people living with Multiple Long-Term Conditions (MLTC).
 
 <br>
 ![SysteMatic Overview Scrollthrough](assets/home-placeholder.png)
