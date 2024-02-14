@@ -18,7 +18,6 @@ nav:
     - 'Systems Innovation': 'systems-science/innovation.md'
     - 'Systems Transition': 'systems-science/transition.md'
     - 'Learning Systems': 'systems-science/triple-learning-system.md'
-  - Knowledge Commons: 'digital-commons.md' 
   - Glossary: 'glossary.md'
   
 theme:
