@@ -4,11 +4,14 @@ hide:
 ---
 
 # MLTC Design Co-operative
-We are designing SysteMatic through a cooperative of people and disciplines including: those with lived and caring experience of MLTC, health and care professionals, scientists, engineers, designers, artists and social scientists. We adopt human-centred,21 22 inclusive,23 24 equitable and participatory25-27 design principles to ensure an innately patient-centred, equitable and innovative approach. 
+We are designing SysteMatic through a cooperative of people and disciplines including: those with lived and caring experience of MLTC, health and care professionals, scientists, engineers, designers, artists and social scientists. We adopt human-centred, inclusive, equitable and participatory design principles to ensure an innately patient-centred, equitable and innovative approach. The design co-operative is split into three working groups studying [**systems**](systems-futures.md), [**people**](people-insights.md) and [**intelligence**](health-intelligence.md). 
+
+<br/>
+
 [![Design Coop 0.1 Diagram](../assets/design-coop.png)](https://www.google.com)
 
 <br/>
-The design co-operative is split into three working groups studying [**systems**](systems-futures.md), [**people**](people-insights.md) and [**intelligence**](health-intelligence.md). 
+
 
 <div class="grid cards" markdown>
   
