@@ -24,7 +24,7 @@ At present, the site is organised as follows:
     
     Find information about SysteMatic's design cooperative approach, as well as updates and resources from the 3 working groups studying systems, people and intelligence
 
-    [:octicons-arrow-right-24: Design-cooperative](#)
+    [:octicons-arrow-right-24: MLTC Design-cooperative](#)
   
 -  :octicons-person-16: __Key Populations__
 
@@ -32,15 +32,15 @@ At present, the site is organised as follows:
   
     Find information, updates and resources from our work with 3 key population segments across the lifecourse: children and families, working lives, and pre-frailty
 
-    [:octicons-arrow-right-24: Key populations](#)
+    [:octicons-arrow-right-24: Key MLTC populations](#)
   
 -   :material-vector-circle: __Systems Science__
 
     ---
 
-    Find information about 3 orders of MLTC systems science and learning systems
+    Find information about 3 orders of systems science and MLTC learning systems being applied in SysteMatic
 
-    [:octicons-arrow-right-24: Systems science](#)
+    [:octicons-arrow-right-24: MLTC systems science](#)
   
 </div>
 
