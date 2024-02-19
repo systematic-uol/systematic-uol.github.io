@@ -12,9 +12,8 @@ A platform to:
 - Support collaboration, conversation and learning about the application of systems approaches to improve health and care for people living with Multiple Long-Term Conditions (MLTC).
 
 <br/>
-This site is a living resource, meaning the content is constantly being updated, revised, and refined. At present, the site is organised as follows:
-
-
+This site is a living resource, meaning the content is constantly being updated, revised, and refined. 
+At present, the site is organised as follows:
 
 
 <div class="grid cards" markdown>
@@ -24,18 +23,24 @@ This site is a living resource, meaning the content is constantly being updated,
     ---
     
     Find information about SysteMatic's design cooperative approach, as well as updates and resources from the 3 working groups studying systems, people and intelligence
+
+    [:octicons-arrow-right-24: Design-cooperative](#)
   
 -  :octicons-person-16: __Key Populations__
 
     ---
   
-    Find information, updates and resources from our work with 3 key population segments across the lifecourse: children and families, working lives, and pre-frailty 
+    Find information, updates and resources from our work with 3 key population segments across the lifecourse: children and families, working lives, and pre-frailty
+
+    [:octicons-arrow-right-24: Key populations](#)
   
 -   :material-vector-circle: __Systems Science__
 
     ---
 
     Find information about 3 orders of MLTC systems science and learning systems
+
+    [:octicons-arrow-right-24: Systems science](#)
   
 </div>
 
