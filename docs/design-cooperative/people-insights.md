@@ -10,7 +10,9 @@ People Insights puts a diversity of patients, practitioners, and public partners
 ## Updates From The People Insights Group
 
 ## Resources From The People Insights Group
+
 **Activity books:**
+
 - [Living with MLTC](../assets/A3-sheets-lived.pdf){:download}
 - Caring for someone with MLTC
 - Children & families
