@@ -23,6 +23,7 @@ Resources are primarily aimed at academic researchers and professionals who are 
 ## How is the SysteMatic Digital Commons organised?
 This site is a living resource, meaning the content is constantly being updated. At present, the site is organised according to the design co-operative approach we are adopting during the development phase. Following the navigation bar from left to right approximately follows stages of the SysteMatic project in chronological order.
 <br>
+<br>
 **Stage 0: Convene the Design Cooperative:** 
 <div class="grid cards" markdown>
   
@@ -35,7 +36,7 @@ This site is a living resource, meaning the content is constantly being updated.
     [:octicons-arrow-right-24:](about.md)
 
 </div>
-
+<br>
 **Stage 1: Deep Dives into MLTC Epidemiology, Experiences and Services:**
 <div class="grid cards" markdown>
   
@@ -64,7 +65,7 @@ This site is a living resource, meaning the content is constantly being updated.
     [:octicons-arrow-right-24:](systems-science/systems-science-overview.md)
 
 </div>
-
+<br>
 **Stage 2: Co-identify Priority MLTC Systems Failures and Targets for Action:**
 <div class="grid cards" markdown>
 
