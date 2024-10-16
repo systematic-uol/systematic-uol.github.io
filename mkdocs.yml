@@ -20,6 +20,9 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.path
+    - navigation.indexes
+    - navigation.footer
     - content.tabs.link
     - content.tabs
     - navigation.path
