@@ -1,11 +1,5 @@
-# Structure of the commons
+# Organisation of the commons
 
-## Development stage design process 
-We adopt a design cooperative approach for MLTC systems change.
-![Development stage design process](../assets/development-design-process.png) 
-<br>[Read our protocol paper published in the Journal of Multimorbidity and Comorbidity here](https://journals.sagepub.com/doi/10.1177/26335565241272682)
-
-## Structure of the commons  
 This site is a living resource, meaning the content is constantly being updated, revised and refined. At present, the site is organised according to the design co-operative approach we are adopting during the development phase. The navigation bar from left to right approximately follows the stages of the SysteMatic project as outlined below.
 
 <br>
