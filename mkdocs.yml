@@ -1,16 +1,16 @@
 h site_name: SysteMatic Digital Commons
 nav:
   - Home: 'index.md'
-  - About SysteMatic: about.md
+  - About SysteMatic: 'about.md'
   - Health Intelligence: 
-    - health-intelligence/index.md
+    - 'health-intelligence/index.md'
   - People Insights: 
-    - people-insight/index.md
+    - 'people-insight/index.md'
   - Systems Science: 
-    - systems-science/index.md
+    - 'systems-science/index.md'
   - Collective Synthesis & Outcomes:
-    - collective-outcomes/index.md
-  - Glossary: glossary.md
+    - 'collective-outcomes/index.md'
+  - Glossary: 'glossary.md'
   
 theme:
   name: material
