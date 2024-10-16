@@ -8,3 +8,4 @@ Iterations of our design process are recorded below.
 
 ## Proposed Innovation Hub Process 
 ![Innovation hub learning system design process](../assets/eoi-design-process.png)
+More info about this in the [MLTC learning system framework section](../collective-outcomes/MLTC-learning-system-framework.md)
