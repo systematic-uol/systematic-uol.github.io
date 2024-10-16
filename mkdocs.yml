@@ -3,6 +3,7 @@ nav:
   - Home: 'index.md'
   - About SysteMatic: 
     - 'about-systematic/index.md'
+    - Development Stage Protocol: 'about-systematic/protocol.md'
     - Design Cooperative Approach: 'about-systematic/design-cooperative-approach.md'
   - Health Intelligence: 
     - 'health-intelligence/index.md'
