@@ -1,4 +1,4 @@
-h site_name: SysteMatic Digital Commons
+site_name: SysteMatic Digital Commons
 nav:
   - Home: 'index.md'
   - About SysteMatic: 'about.md'
