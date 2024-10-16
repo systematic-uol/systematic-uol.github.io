@@ -18,10 +18,7 @@ Resources on the digital commons are primarily aimed at academic researchers and
 <br>
 
 ## How is it organised?
-This site is a living resource, meaning the content is constantly being updated, revised and refined. 
-<br>
-<br>
-At present, the site is organised according to the design co-operative approach we are adopting during the development phase. Following the navigation bar from left to right approximately follows the stages of the SysteMatic project as outlined below.
+This site is a living resource, meaning the content is constantly being updated, revised and refined. At present, the site is organised according to the design co-operative approach we are adopting during the development phase. Following the navigation bar from left to right approximately follows the stages of the SysteMatic project as outlined below.
 <br>
 <br>
 **Stage 0: Convene the Design Cooperative:** 
