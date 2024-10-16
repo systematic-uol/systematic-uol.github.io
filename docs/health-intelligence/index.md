@@ -1,1 +1,1 @@
-# Health Intelligence
+# Health intelligence
