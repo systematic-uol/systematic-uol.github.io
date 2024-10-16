@@ -1,7 +1,9 @@
 site_name: SysteMatic Digital Commons
 nav:
   - Home: 'index.md'
-  - About SysteMatic: 'about.md'
+  - About SysteMatic: 
+    - 'about-systematic/index.md'
+    - 'about-systematic/our-approach.md'
   - Health Intelligence: 
     - 'health-intelligence/index.md'
   - People Insights: 
