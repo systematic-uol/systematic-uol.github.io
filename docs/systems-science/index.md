@@ -1,4 +1,4 @@
-# MLTC Systems Science
+# MLTC systems science
 Our cooperative of disciplines includes systems modelling, systems engineering, systemic design, clinical research, public health research, and health and care commissioning and provision.  
 <br>
 We apply three orders of systems science to health & care systems, distinguished by: a) how they define a system;
