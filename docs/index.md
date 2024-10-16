@@ -67,9 +67,9 @@ At present, the site is organised according to the design co-operative approach 
 
 </div>
 <br>
-**Stage 2: Co-identify Priority MLTC Systems Failures and Targets for Action:**<br>
-**Stage 3: Co-define Research, Technology and Intervention Priorities**<br>
-**Stage 4: Co-producing the SysteMatic MLTC Innovation Hub Business Plan**
+**Stage 2: Co-identify Priority MLTC Systems Failures and Targets for Action,**<br>
+**Stage 3: Co-define Research, Technology and Intervention Priorities,**<br>
+**Stage 4: Co-producing the SysteMatic MLTC Innovation Hub Business Plan:**
 <div class="grid cards" markdown>
 
 -  :material-flag-triangle: __Collective Synthesis & Outcomes__
