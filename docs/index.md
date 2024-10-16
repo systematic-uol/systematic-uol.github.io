@@ -39,7 +39,7 @@ This site is a living resource, meaning the content is constantly being updated.
 
     [:octicons-arrow-right-24:](health-intelligence/health-intelligence-overview.md)
 
-  :octicons-person-16: __People Insights (Qualitative data)__
+-  :octicons-person-16: __People Insights (Qualitative data)__
 
     ---
   
@@ -47,7 +47,7 @@ This site is a living resource, meaning the content is constantly being updated.
 
     [:octicons-arrow-right-24:](people-insight/people-insight-overview.md)
     
--   :material-vector-circle: __Systems Science__
+-  :material-vector-circle: __Systems Science__
 
     ---
 
@@ -55,7 +55,7 @@ This site is a living resource, meaning the content is constantly being updated.
 
     [:octicons-arrow-right-24:](systems-science/systems-science-overview.md)
 
--   :material-flag-triangle: __Collective Outcomes__
+-  :material-flag-triangle: __Collective Outcomes__
 
     ---
 
