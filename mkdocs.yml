@@ -19,7 +19,7 @@ nav:
     - 'collective-outcomes/index.md'
     - Problem Definition: 'collective-outcomes/problem-definition.md'
     - Problem Prioritisation: 'collective-outcomes/problem-prioritisation.md'
-    - MLTC Learning System Framework: 'collective-outcomes/problem-prioritisation.md'
+    - MLTC Learning System Framework: 'collective-outcomes/MLTC-learning-system-framework.md'
   - Glossary: 'glossary.md'
   
 theme:
