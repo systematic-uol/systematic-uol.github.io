@@ -8,7 +8,7 @@ Living with MLTC significantly impacts a person’s quality of life, leading to 
 <br><br>
 Liverpool and Glasgow both have disadvantaged communities with high levels of MLTC, challenging our NHS and wider health and care systems.
 
-## Aims and Objectives
+## Aims and objectives
 SysteMatic will lay the groundwork for a full-scale project to improve care for people with MLTC.
 <br><br>
 We aim to deliver an action-ready plan for transforming MLTC prevention and care through an Innovation Hub. Our Hub will be co-designed by people with lived experience of MLTC, practitioners, academics and industry partners in Liverpool and Glasgow. Planning will build on research into mental-physical health interdependence across the lifecourse, and on mobilisation of big data and technology validation in health & care systems that serve deprived populations in Liverpool and Glasgow.
