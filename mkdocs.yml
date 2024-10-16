@@ -3,7 +3,8 @@ nav:
   - Home: 'index.md'
   - About SysteMatic: 
     - 'about-systematic/index.md'
-    - Design cooperative approach: 'about-systematic/design-cooperative-approach.md'
+    - Developing SysteMatic: about-systematic/development-stage.md'
+    - Organisation of the Commons: 'about-systematic/commons-structure.md'
   - Health Intelligence: 
     - 'health-intelligence/index.md'
   - People Insights: 
