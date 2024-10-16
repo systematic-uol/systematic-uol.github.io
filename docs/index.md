@@ -12,10 +12,10 @@ The Digital Commons is a platform to:
 - Share outcomes and updates from the SysteMatic project. This includes resources (methods, tools, models, reports & more) focused on applying systems engineering to improve health and care for people living with Multiple Long-Term Conditions (MLTC). 
 - Support collaboration, conversation and learning about systems approaches for MLTC.
 
-## Who is the SysteMatic Digital Commons for?
-Resources are primarily aimed at academic researchers and professionals who are interested in systems approaches for MLTC.
+## Who is it for?
+Resources on the digital are primarily aimed at academic researchers and professionals who are interested in systems approaches for MLTC.
 
-## How is the SysteMatic Digital Commons organised?
+## How is it organised?
 This site is a living resource, meaning the content is constantly being updated, revised and refined. 
 <br>
 <br>
@@ -64,8 +64,8 @@ At present, the site is organised according to the design co-operative approach 
 
 </div>
 <br>
-**Stage 2: Co-identify Priority MLTC Systems Failures and Targets for Action:**
-**Stage 3: Co-define Research, Technology and Intervention Priorities**
+**Stage 2: Co-identify Priority MLTC Systems Failures and Targets for Action:**<br>
+**Stage 3: Co-define Research, Technology and Intervention Priorities**<br>
 **Stage 4: Co-producing the SysteMatic MLTC Innovation Hub Business Plan**
 <div class="grid cards" markdown>
 
