@@ -8,10 +8,18 @@ nav:
     - 'health-intelligence/index.md'
   - People Insights: 
     - 'people-insight/index.md'
+    - Qualitative Data Collection: 'people-insight/qualitative-data-collection.md'
+    - Metaphors: 'people-insight/metaphors.md'
+    - Person Maps: 'people-insight/person-maps.md'
+    - Journey Maps: 'people-insight/journey-maps.md'
+    - System Maps: 'people-insight/system-maps.md'
   - Systems Science: 
     - 'systems-science/index.md'
   - Collective Synthesis & Outcomes:
     - 'collective-outcomes/index.md'
+    - Problem Definition: 'collective-outcomes/problem-definition.md'
+    - Problem Prioritisation: 'collective-outcomes/problem-prioritisation.md'
+    - MLTC Learning System Framework: 'collective-outcomes/problem-prioritisation.md'
   - Glossary: 'glossary.md'
   
 theme:
