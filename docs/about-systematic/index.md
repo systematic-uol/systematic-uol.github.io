@@ -1,7 +1,7 @@
 # About SysteMatic
 SysteMatic brings together researchers from the Universities of Liverpool and Glasgow to develop a plan to design and engineer health systems for people living with Multiple Long-Term Conditions (MLTC). 
 
-## Growing impact of multiple long-term health conditions
+## Context
 In the UK, approximately one in three people experience the challenges of living with multiple long-term health conditions, and this figure continues to rise. It is projected that by 2035, over two-thirds of the UK's population aged 65 and above will be affected. 
 <br><br>
 Living with MLTC significantly impacts a person’s quality of life, leading to increased care requirements and a higher risk of early death.  MLTC affects people across all communities, but those facing socioeconomic disadvantages are affected 10 to 15 years earlier. 
