@@ -6,16 +6,10 @@ hide:
 
 # Welcome to the SysteMatic Digital Commons
 
-## What is SysteMatic? 
-The SysteMatic project brings together researchers from the Universities of Liverpool and Glasgow, in partnership with patients, public, practitioners, and industry partners, to develop a plan to design and engineer health systems for people living with Multiple Long-Term Conditions (MLTC). 
-<br> 
-<br>
-This work is supported by funding from the National Institute for Health Research (NIHR) and the Engineering and Physical Sciences Research Council (EPSRC) Systems Engineering Innovation hubs for Multiple long-term Conditions (SEISMIC) scheme. The development phase runs from July 2023 - December 2024, at the end of which we will apply for a full-scale Innovation Hub.
-
 ## What is the SysteMatic Digital Commons?
 The Digital Commons is a platform to:
 
-- Share outcomes and updates from the SysteMatic project. This includes resources (methods, tools, models, reports & more) focused on applying systems engineering to improve health and care for people living with MLTC. 
+- Share outcomes and updates from the SysteMatic project. This includes resources (methods, tools, models, reports & more) focused on applying systems engineering to improve health and care for people living with Multiple Long-Term Conditions (MLTC). 
 - Support collaboration, conversation and learning about systems approaches for MLTC.
 - Serve as a living resource, with content continuously updated, revised, and refined.
 
