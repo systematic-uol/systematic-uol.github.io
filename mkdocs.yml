@@ -16,7 +16,7 @@ theme:
   name: material
   palette:
     scheme: systematic
-  logo: assets/3d-logo.png
+  logo: assets/logo.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
