@@ -1,5 +1,5 @@
 # About SysteMatic
-SysteMatic brings together researchers from the Universities of Liverpool and Glasgow to develop a plan to design and engineer health systems for people living with Multiple Long-Term Conditions (MLTC). 
+[SysteMatic](https://www.liverpool.ac.uk/population-health/research/seismic-systematic/) brings together researchers from the Universities of Liverpool and Glasgow to develop a plan to design and engineer health systems for people living with Multiple Long-Term Conditions (MLTC). 
 
 ## Context
 In the UK, approximately one in three people experience the challenges of living with multiple long-term health conditions, and this figure continues to rise. It is projected that by 2035, over two-thirds of the UK's population aged 65 and above will be affected. 
