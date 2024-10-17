@@ -10,10 +10,12 @@ nav:
   - People Insights: 
     - 'people-insight/index.md'
     - Qualitative data collection: 'people-insight/qualitative-data-collection.md'
-    - Metaphors: 'people-insight/metaphors.md'
+    - My MLTC story activity book: 'people-insight/activity-book.md'
+    - Metaphors of MLTC lived experience: 'people-insight/metaphors.md'
     - Person maps: 'people-insight/person-maps.md'
-    - Journey maps: 'people-insight/journey-maps.md'
-    - System maps: 'people-insight/system-maps.md'
+    - MLTC journeys map: 'people-insight/journey-maps.md'
+    - MLTC systems pressure points map: 'people-insight/system-maps.md'
+    - MLTC systems actor map: 'people-insight/actor-map.md'
   - Systems Science: 
     - 'systems-science/index.md'
   - Collective Synthesis & Outcomes:
