@@ -23,7 +23,6 @@ nav:
     - Problem prioritisation: 'collective-outcomes/problem-prioritisation.md'
     - MLTC learning system framework: 'collective-outcomes/MLTC-learning-system-framework.md'
   - Glossary: 'glossary.md'
-  - Tags: 'tags.md'
   
 theme:
   name: material
