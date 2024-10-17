@@ -1,12 +1,13 @@
 # Navigating the commons
 
-This site is a living resource, meaning the content is constantly being updated, revised and refined. You can navigate the site through:
+This site is a living resource, meaning the content is constantly being updated, revised and refined. 
+<br> You can naviagte the content in multiple ways:
 
-- using the search function,
+- using the search function in the top right corner,
 - following the structure of the navigation bar,
 - using the tags function. 
 
-## Structure
+## Site structure
 At present, the site is organised according to the design co-operative approach we are adopting during the development phase. The navigation bar from left to right approximately follows the stages of the SysteMatic project chronologically.
 <br>
 
@@ -18,7 +19,9 @@ At present, the site is organised according to the design co-operative approach 
 
 
 ## Tags
-Pages on the commons are assigned tags that can be used to discover related resources. Examples of tags include: 
+Pages on the commons are assigned tags that can be used to discover related resources. 
+<br> **[Visit the full tag index here](../tags.md).** 
+<br><br> Overview of tags: 
 
 | Category                 | Tags                                           |
 | ------------------------ | ---------------------------------------------- |
@@ -28,4 +31,4 @@ Pages on the commons are assigned tags that can be used to discover related reso
 | Resource type            | `data insight` `methods & tools` `models & frameworks` |
 | File type                | `video` `image` `interactive map` `pdf`|
 
-You can [visit the full tag index here](../tags.md). 
+
