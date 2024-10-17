@@ -21,7 +21,6 @@ Pages on the commons are assigned tags according to several categories (examples
 | ------------------------ | ---------------------------------------------- |
 | Project stage            | `stage 1` `stage 2` `stage 3` `stage 4` |
 | Population segment       | `children & families` `working lives` `pre-frailty`|
-| Working group            | `health intelligence` `people insights` `systems futures`|
 | Resource type            | `data insight` `methods & tools` `models & frameworks` |
 | File type                | `video` `image` `interactive map` `pdf`|
 
