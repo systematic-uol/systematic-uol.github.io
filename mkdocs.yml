@@ -4,7 +4,7 @@ nav:
   - About SysteMatic: 
     - 'about-systematic/index.md'
     - Developing SysteMatic: 'about-systematic/development-stage.md'
-    - Organisation of the Commons: 'about-systematic/commons-structure.md'
+    - Organisation of the Commons: 'about-systematic/commons-structure.md' 
   - Health Intelligence: 
     - 'health-intelligence/index.md'
   - People Insights: 
@@ -23,6 +23,7 @@ nav:
     - Problem prioritisation: 'collective-outcomes/problem-prioritisation.md'
     - MLTC learning system framework: 'collective-outcomes/MLTC-learning-system-framework.md'
   - Glossary: 'glossary.md'
+  - Tags: 'tags.md'
   
 theme:
   name: material
@@ -58,4 +59,5 @@ markdown_extensions:
 plugins:
   - glightbox
   - search
-  - tags
+  - tags:
+    - tags_file: tags.md
