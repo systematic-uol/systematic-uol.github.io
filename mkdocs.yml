@@ -1,7 +1,7 @@
 site_name: SysteMatic Digital Commons
 nav:
   - Home: 'index.md'
-  - About SysteMatic: 
+  - About: 
     - 'about-systematic/index.md'
     - Developing SysteMatic: 'about-systematic/development-stage.md'
     - Navigating the Commons: 'about-systematic/commons-structure.md' 
