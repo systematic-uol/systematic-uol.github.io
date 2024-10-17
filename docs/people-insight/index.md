@@ -1,2 +1,2 @@
 # People insights
-Qualitative methods to capture perspectives from a diversity of patients, practitioners, and public partners – particularly including those seldom heard.
+This section contains resources about capturing and synthesising perspectives from a diversity of patients, practitioners, and public partners about MLTC systems.
