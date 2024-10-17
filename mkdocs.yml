@@ -60,4 +60,4 @@ plugins:
   - glightbox
   - search
   - tags:
-    - tags_file: tags.md
+      tags_file: tags.md
