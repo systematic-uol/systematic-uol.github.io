@@ -18,6 +18,7 @@ nav:
     - 'systems-science/index.md'
   - Collective Synthesis & Outcomes:
     - 'collective-outcomes/index.md'
+    - Big & thick data: 'collective-outcomes/big-thick-data.md' 
     - Problem definition: 'collective-outcomes/problem-definition.md'
     - Problem prioritisation: 'collective-outcomes/problem-prioritisation.md'
     - MLTC learning system framework: 'collective-outcomes/MLTC-learning-system-framework.md'
