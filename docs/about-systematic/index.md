@@ -1,4 +1,4 @@
-# About SysteMatic
+# About the SysteMatic project
 [SysteMatic](https://www.liverpool.ac.uk/population-health/research/seismic-systematic/) brings together researchers from the Universities of Liverpool and Glasgow to develop a plan to design and engineer health systems for people living with Multiple Long-Term Conditions (MLTC). 
 
 ## Context
