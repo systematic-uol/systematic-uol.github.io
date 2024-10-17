@@ -1,6 +1,7 @@
 # Navigating the commons
 
 This site is a living resource, meaning the content is constantly being updated, revised and refined. 
+<br>
 <br> You can naviagte the content in multiple ways:
 
 - using the search function in the top right corner,
@@ -8,7 +9,7 @@ This site is a living resource, meaning the content is constantly being updated,
 - using the tags function. 
 
 ## Site structure
-At present, the site is organised according to the design co-operative approach we are adopting during the development phase. The navigation bar from left to right approximately follows the stages of the SysteMatic project chronologically.
+At present, the site is organised according to the process we are adopting during the development phase. The navigation bar from left to right approximately follows the project stages chronologically.
 <br>
 
 | Project Stage                                                       | Section of the Commons                                                                                                       |
