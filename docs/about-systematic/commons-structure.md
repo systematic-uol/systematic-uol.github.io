@@ -14,9 +14,8 @@ At present, the site is organised according to the process we are adopting durin
 
 
 ## Tags
-Pages on the commons are assigned tags that can be used to discover related resources. 
+Pages on the commons are assigned tags according to several categories (examples in below table).
 <br> **[Visit the full tag index here](../tags.md).** 
-<br><br> Examples of tags: 
 
 | Category                 | Tags                                           |
 | ------------------------ | ---------------------------------------------- |
