@@ -1,3 +1,3 @@
-# Collective synthesis & outcomes
+# Interdisciplinary synthesis & strategy
 
-Bringing together the outcomes of the 3 working groups, multiple disciplines and stakeholders to co-identify priority MLTC systems failures and targets for action, and co-define research, technology and intervention priorities.
+This section contains resources about bringing together multiple disciplines and stakeholders to synthesise insight and develop strategies for improving MLTC systems.
