@@ -3,7 +3,7 @@ nav:
   - Home: 'index.md'
   - About: 
     - 'about-systematic/index.md'
-    - Developing SysteMatic: 'about-systematic/development-stage.md'
+    - SysteMatic development phase: 'about-systematic/development-stage.md'
     - Navigating the Commons: 'about-systematic/commons-structure.md' 
   - Health Intelligence: 
     - 'health-intelligence/index.md'
