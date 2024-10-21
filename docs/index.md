@@ -8,7 +8,7 @@ hide:
 
 **What is the SysteMatic Digital Commons?**
 
-- A place to share outcomes and updates from the SysteMatic project. This includes resources (methods, tools, models, reports & more) focused on applying systems engineering to improve health and care for people living with Multiple Long-Term Conditions (MLTC). 
+- A place to share outcomes and updates from the SysteMatic project. This includes resources (methods, tools, models, reports & more) focused on applying systems engineering to improve health and care for people living with Multiple Long-Term Conditions (MLTC) equitably. 
 - The goal is to support collaboration, conversation and learning about systems approaches for MLTC.
 - This site is a living resource, which means the content is constantly being updated, revised, and refined.
 
