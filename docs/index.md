@@ -17,7 +17,7 @@ hide:
 **Who is it for?** <br>
 Our resources are primarily aimed at academic researchers and professionals who are interested in systems approaches for MLTC.
 <br><br>
-All of the material in the SysteMatic Commons is available for free through a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license. 
+All of the material in the SysteMatic Digital Commons is available through a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license. 
 
 
 
