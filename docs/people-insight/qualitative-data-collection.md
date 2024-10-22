@@ -1,5 +1,5 @@
 ---
 tags:
 - Stage 1
-- Methods & tools
+- Models, frameworks & strategies
 ---
