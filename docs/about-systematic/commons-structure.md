@@ -1,3 +1,8 @@
+---
+hide:
+- toc
+---
+
 # Navigating the commons
 
 This site is a living resource, which we are adding to throughout the development process, meaning the content is constantly being updated, revised and refined. 
