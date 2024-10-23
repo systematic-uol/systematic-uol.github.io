@@ -1,4 +1,7 @@
 site_name: SysteMatic Digital Commons
+
+copyright: Copyright &copy; SysteMatic Project
+
 nav:
   - Home: 'index.md'
   - About: 
@@ -44,8 +47,10 @@ theme:
     - content.tabs
     - navigation.path
     - navigation.top
+    
 extra_css:
   - stylesheets/extra.css
+  
 markdown_extensions: 
   - attr_list
   - md_in_html
@@ -60,6 +65,7 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+      
 plugins:
   - glightbox
   - search
