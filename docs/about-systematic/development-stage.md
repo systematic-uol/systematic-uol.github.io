@@ -1,3 +1,8 @@
+---
+hide:
+- toc
+---
+
 # SysteMatic development phase
 We are developing SysteMatic through a 5 stage design process:
 ![Development stage design process](../assets/development-design-process.png) 
