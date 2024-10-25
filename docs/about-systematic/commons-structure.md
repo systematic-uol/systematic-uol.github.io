@@ -19,14 +19,8 @@ At present, the site is organised according to the process we are adopting durin
 
 
 ## Tags
-Resources in the commons are assigned tags according to several categories (examples in below table).
-<br> **[Visit the full tag index here](../tags.md).** 
+Resources in the commons are assigned tags according to categories such as project stage and resource type. 
+<br> **[Browse the tag index here](../tags.md).** 
 
-| Category                 | Tags                                           |
-| ------------------------ | ---------------------------------------------- |
-| Project stage            | `stage 1` `stage 2` `stage 3` `stage 4` |
-| Population segment       | `children & families` `working lives` `pre-frailty`|
-| Resource type            | `data insight` `methods & tools` `models & frameworks` |
-| File type                | `video` `image` `interactive map` `pdf`|
 
 
