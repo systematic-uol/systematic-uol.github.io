@@ -1,7 +1,7 @@
 ---
 tags:
-- stage 2
-- models, frameworks & strategies
+- Stage 2
+- Models, frameworks & strategies
 ---
 
 # Problem prioritisation
