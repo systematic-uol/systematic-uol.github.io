@@ -1,14 +1,20 @@
 ---
 hide:
 - toc
+
+tags:
+- Publications
+- Models, frameworks & strategies
 ---
 
 # SysteMatic development phase
+**[Read about the SysteMatic development process in our protocol paper published in the Journal of Multimorbidity and Comorbidity here.](https://journals.sagepub.com/doi/10.1177/26335565241272682)**
+<br><br>
 We are developing SysteMatic through a 5 stage design process:
 ![Development stage design process](../assets/development-design-process.png) 
 <br>
 
-[Read more about the development process in our protocol paper published in the Journal of Multimorbidity and Comorbidity here.](https://journals.sagepub.com/doi/10.1177/26335565241272682)
+
 
 ## Stage 0
 **Convene the Design Cooperative with UK-representative Assets and International Relevance**
