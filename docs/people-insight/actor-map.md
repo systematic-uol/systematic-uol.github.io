@@ -7,9 +7,10 @@ tags:
 
 # MLTC systems actor map
 
+[MLTC systems actor map blank template](../assets/actor_map_template.pdf)
+
 ![actor map](../assets/actor-map.jpg)
 /// caption
-Actor map created during Liverpool Stage 2 workshop.
+Actor map populated during Liverpool Stage 2 workshop.
 ///
 
-[Template](../assets/actor_map_template.pdf)
