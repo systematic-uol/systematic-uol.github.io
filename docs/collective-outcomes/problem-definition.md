@@ -1,6 +1,7 @@
 ---
 tags:
 - Stage 2
+- Models, frameworks & strategies
 - Data insight
 ---
 
