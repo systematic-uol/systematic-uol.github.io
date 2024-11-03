@@ -6,3 +6,5 @@ tags:
 ---
 
 # MLTC journey mapping
+
+[MLTC journey map template](../assets/journey-map-template.pdf)
