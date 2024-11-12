@@ -6,7 +6,7 @@ hide:
 
 # Welcome to the SysteMatic Digital Commons
 
-![Commons structure](../assets/commons-structure.png) { align=right }
+![Commons structure](../assets/commons-structure.png){ width=100 }{ align=right }
 
 **What is the SysteMatic Digital Commons?**
 
