@@ -19,7 +19,7 @@ We are developing SysteMatic through a 5 stage design process as outlined below:
 
 ## Stage 0
 **Convene the Design Cooperative with UK-representative Assets and International Relevance**
-Rapidly stand-up 3 linked working groups whose remit is described below:
+<br>Rapidly stand-up 3 linked working groups whose remit is described below:
 
 1. People Insights: will put a diversity of patients, practitioners, and public partners – including those seldom heard, at the centre of design. The group will consolidate lived experiences into personas, patient journeys, system maps and system failure scenarios. 
 
