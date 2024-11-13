@@ -1,4 +1,6 @@
 ---
+hide:
+- toc
 tags:
 - Stage 1
 - Methods & tools
@@ -6,6 +8,11 @@ tags:
 ---
 
 # Methaphors of MLTC lived experience
+
+![Metaphors](../assets/S2-metaphors.jpg)
+/// caption
+Metaphor activity - Liverpool Stage 2 workshop.
+///
 
 ## Overview 
 A set of metaphor images brought up by people living with multiple long-term conditions as they reflected on their daily life experiences and navigating health & care systems. The images are generated using AI and validated through a workshop. They serve as visual tools to prompt discussion and convey MLTC experiences in a relatable and accessible way.
@@ -20,7 +27,3 @@ People with lived experience thought that the images helped to represent their e
 <br><br>
 
 
-![Metaphors](../assets/S2-metaphors.jpg)
-/// caption
-Metaphor activity - Liverpool Stage 2 workshop.
-///
