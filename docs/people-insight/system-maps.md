@@ -7,9 +7,16 @@ tags:
 
 # Mapping systemic problems
 
-[System map template](../system- map-template.pdf)
-
 ![system map](../assets/S2-system-map.jpg)
 /// caption
 System map used during Liverpool Stage 2 workshop.
 ///
+
+## Overview
+
+## Application & use
+
+## Results & insights
+
+<br><br>
+[System map template](../system- map-template.pdf)
