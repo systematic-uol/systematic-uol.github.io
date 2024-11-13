@@ -20,5 +20,4 @@ System map used during Liverpool Stage 2 workshop.
 
 ## Results & insights
 
-<br><br>
-[System map template](../system- map-template.pdf)
+
