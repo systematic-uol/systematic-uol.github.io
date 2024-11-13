@@ -17,7 +17,7 @@ At present, the site is organised according to the process we are adopting durin
 | Stage 1: Deep dives                                                 | Health Intelligence (Quantitative data) [:octicons-arrow-right-24:](health-intelligence/health-intelligence-overview.md)<br>People Insights (Qualitative data) [:octicons-arrow-right-24:](people-insight/people-insight-overview.md)<br>Systems Science [:octicons-arrow-right-24:](systems-science/systems-science-overview.md) |
 | Stage 2: Co-identify problems & priorities <br> Stage 3: Co-define visions & targets <br> Stage 4: Co-produce business plan    | Collective Synthesis & Outcomes [:octicons-arrow-right-24:](collective-outcomes/collective-outcomes-overview.md)    |
 
-![Commons structure](../assets/commons-structure-navigating.png){ width=750 align=left }
+![Commons structure](../assets/commons-structure-navigating.png){ width=750 }
 <br>
 ## Tags
 Resources in the commons are assigned tags according to categories such as project stage and resource type. 
