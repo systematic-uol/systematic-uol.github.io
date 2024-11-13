@@ -8,9 +8,6 @@ tags:
 
 # Activity books
 ![Activity books](../assets/activity-books.png)
-/// caption
-MLTC activity books.
-///
 
 ## Overview
 
