@@ -9,7 +9,7 @@ tags:
 # Activity books
 ![Activity books](../assets/activity-books.png)
 /// caption
-MLTC activity books for: people with MLTC, carers, and families.
+MLTC activity books.
 ///
 
 ## Overview
