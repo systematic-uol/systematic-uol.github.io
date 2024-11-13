@@ -6,7 +6,7 @@ tags:
 - Methods & tools
 ---
 
-# Activity books
+# MLTC activity books
 ![Activity books](../assets/activity-books.png)
 
 ## Overview
