@@ -8,6 +8,9 @@ tags:
 
 # MLTC activity books
 ![Activity books](../assets/activity-books.png)
+/// caption
+3 activity books developed during Stage 1.
+///
 
 ## Overview
 
