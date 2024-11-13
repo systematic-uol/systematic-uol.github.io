@@ -11,3 +11,9 @@ tags:
 /// caption
 Example person map used Liverpool Stage 2 workshop.
 ///
+
+## Overview
+
+## Application & use
+
+## Results & insights
