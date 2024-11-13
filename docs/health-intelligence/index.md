@@ -2,4 +2,4 @@
 
 ![Commons structure](../assets/commons-structure-health-intelligence.png){ width=700 }
 
-<br> This section contains resources about using health and civic data to investigate MLTC systems. 
+<br> This section contains resources about using health data to investigate MLTC systems. 
