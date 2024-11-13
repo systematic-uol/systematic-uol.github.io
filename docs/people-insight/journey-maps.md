@@ -15,5 +15,4 @@ tags:
 
 ## Results & insights
 
-<br><br>
- [MLTC journey map template](../assets/journey-map-template.pdf)
+
