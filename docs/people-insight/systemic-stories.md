@@ -1,3 +1,7 @@
+---
+hide:
+- toc
+---
 # Systemic people stories
 
 ## Roberts story
