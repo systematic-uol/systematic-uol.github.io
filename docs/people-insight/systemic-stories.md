@@ -1,6 +1,10 @@
 ---
 hide:
 - toc
+tags:
+- Stage 1
+- Data insight
+- Video
 ---
 # Systemic people stories
 
