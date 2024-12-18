@@ -37,11 +37,11 @@ The process also resulted in identifying missing actors in the project developme
 
 ## References
 [1] Van Boeijen, A., Daalhuizen J., & Zijlstra, J. (2020). Contextmapping. In Delft Design Guide: Perspectives - Models - Approaches – Methods. BIS Publishers. 
-[2] Jones, P. & Van Ael, K. (2022). Actants Map. In Design Journeys through Complex Systems: Practice Tools for Systemic Design. BIS Publishers. 
-[3] Gopal, S. & Clarke, T. (2015). Guide to Actor Mapping. https://www.fsg.org/resource/guide-actor-mapping/ 
-[4] Systemic Design Toolkit. Methodology. https://www.systemicdesigntoolkit.org/methodology
-[5] Health Systems 20/20. (2012). The Health Systems Assessment Approach: A How-To Manual. Version 2.0. https://www.hfgproject.org/wp-content/uploads/2015/02/HSAA_Manual_Version_2_Sept_20121.pdf
-[6] Teal, G. (2018). A Person-Centred Vision of Care for People Living with Multiple Long-Term Conditions for the Modern Outpatient Programme. The Glasgow School of Art. https://static1.squarespace.com/static/5ab504e77c9327e5eed2778a/t/5b3645172b6a286238fd3cfc/1530283314578/MO+Final+Report+A3.pdf
-[7] Miller, D. (n.d.). The UK Health System. https://www.kumu.io/davidmiller/uk-health-system#organizations
+<br>[2] Jones, P. & Van Ael, K. (2022). Actants Map. In Design Journeys through Complex Systems: Practice Tools for Systemic Design. BIS Publishers. 
+<br>[3] Gopal, S. & Clarke, T. (2015). Guide to Actor Mapping. https://www.fsg.org/resource/guide-actor-mapping/ 
+<br>[4] Systemic Design Toolkit. Methodology. https://www.systemicdesigntoolkit.org/methodology
+<br>[5] Health Systems 20/20. (2012). The Health Systems Assessment Approach: A How-To Manual. Version 2.0. https://www.hfgproject.org/wp-content/uploads/2015/02/HSAA_Manual_Version_2_Sept_20121.pdf
+<br>[6] Teal, G. (2018). A Person-Centred Vision of Care for People Living with Multiple Long-Term Conditions for the Modern Outpatient Programme. The Glasgow School of Art. https://static1.squarespace.com/static/5ab504e77c9327e5eed2778a/t/5b3645172b6a286238fd3cfc/1530283314578/MO+Final+Report+A3.pdf
+<br>[7] Miller, D. (n.d.). The UK Health System. https://www.kumu.io/davidmiller/uk-health-system#organizations
 
 
