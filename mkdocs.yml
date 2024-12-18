@@ -13,25 +13,19 @@ nav:
   - People Insights: 
     - 'people-insight/index.md'
     - Public involvement: 'people-insight/public-involvement.md'
-    - Equitable participation: 'people-insight/qualitative-data-collection.md'
     - MLTC activity books: 'people-insight/activity-book.md'
-    - Photovoice: 'people-insight/photovoice.md'
     - Metaphors: 'people-insight/metaphors.md'
-    - Person mapping: 'people-insight/person-maps.md'
-    - Extremes and mainstreams: 'people-insight/extremes-mainstreams.md'
     - Systemic people stories: 'people-insight/systemic-stories.md'
-    - MLTC journeys map: 'people-insight/journey-maps.md'
-    - Mapping systemic problems: 'people-insight/system-maps.md'
     - MLTC systems actor map: 'people-insight/actor-map.md'
   - Systems Science: 
     - 'systems-science/index.md'
     - 3 orders of MLTC systems science: 'systems-science/orders.md'
   - Transdisciplinary Synthesis & Strategy:
     - 'collective-outcomes/index.md'
-    - Big & thick data: 'collective-outcomes/big-thick-data.md' 
     - Problem definition: 'collective-outcomes/problem-definition.md'
     - Problem prioritisation: 'collective-outcomes/problem-prioritisation.md'
     - Stage 2 report: 'collective-outcomes/stage-2-report.md'
+    - Sandpit report: 'collective-outcomes/sandpit-report.md'
     - MLTC learning system framework: 'collective-outcomes/MLTC-learning-system-framework.md'
   - Glossary: 'glossary.md'
   
