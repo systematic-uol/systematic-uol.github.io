@@ -13,10 +13,17 @@ nav:
   - People Insights: 
     - 'people-insight/index.md'
     - Public involvement: 'people-insight/public-involvement.md'
-    - MLTC activity books: 'people-insight/activity-book.md'
+    - Data collection: 
+      - Design approach - ICER: 'people-insight/qualitative-data-collection.md'
+      - MLTC activity books: 'people-insight/activity-book.md'
     - Metaphors: 'people-insight/metaphors.md'
-    - Systemic people stories: 'people-insight/systemic-stories.md'
-    - MLTC systems actor map: 'people-insight/actor-map.md'
+    - Systemic people stories: 
+      - Conceptual framework: 'people-insight/extremes-mainstreams.md'
+      - Person mapping: 'people-insight/person-maps.md'
+      - Set of systemic stories: 'people-insight/systemic-stories.md'
+    - Systems mapping: 
+      - MLTC systems actor map: 'people-insight/actor-map.md'
+    
   - Systems Science: 
     - 'systems-science/index.md'
     - 3 orders of MLTC systems science: 'systems-science/orders.md'
