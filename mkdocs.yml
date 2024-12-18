@@ -22,6 +22,7 @@ nav:
       - Person mapping: 'people-insight/person-maps.md'
       - Set of systemic stories: 'people-insight/systemic-stories.md'
     - Journey mapping:
+      - MLTC Journey maps: 'people-insight/journey-maps.md'
     - Systems mapping: 
       - MLTC systems actor map: 'people-insight/actor-map.md'
     
