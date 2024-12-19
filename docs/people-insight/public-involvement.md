@@ -8,11 +8,21 @@ tags:
 # A PPIE perspective on involvement in SysteMatic
 *by Ali Bryant*
 
+![Sanpit](../assets/sandpit-1.png)
+/// caption
+PPIE lead, Hilary, speaking at the Liverpool sandpit event.
+///
+
 <p>Grounding the SysteMatic project with lived experience and adapting and shaping the work through the lifespan for me as a PPIE member has been a very rewarding process validating my involvement. The Patient Public Involvement and Engagement- PPIE group consists of seven members of the public, representing a range of diversity and intersectionality, all members having lived experience of Multiple Long-Term Conditions-MLTC’s. Our role has been (and is) to support the development of SysteMatic with our expertise to define and refine the content which we have all witnessed has changed and evolved over time in response to our input. The PPIE group and I have considered how integral we are to the work and to the process and this is evidenced from our regular meetings,  in witnessing the material changes and adaptations  that result with detailed feedback from the team plus the support we are given with adjustments made if required to contribute and the opportunities we have to showcase our involvement– including writing this blog!! It is so important to reflect on the value of our involvement as part of the process partly to ensure that projects and research really reflect and are grounded and influenced by PPIE input, perspective and knowledge but also to evaluate how we are valued as members of the team and certainly SysteMatic in my experience is an exemplar of PPIE best practice. 
 </p>
 
 <p>In the development stages of SysteMatic, the PPIE group were selected after providing expressions of interest on our lived experience of multiple long-term conditions or holding a MLTC carer identity. The expressions of interest also expressed our passion in using our lived experience to effect system change for a better future, and our broad knowledge of how the system impacts us as service users with MLTC’s. This level of insight has made SysteMatic stronger in development being shaped by our understanding of the system to innovate around and highlight what the pinch-points are that make living with MLTCs so difficult to manage and navigate. I have seen how my voice and the contributions of the group have altered SysteMatic from the get-go. We have contributed to ethics approval, the pilot work particularly the various iterations of the person map, ongoing discussion at each phase discussing what worked or didn’t or could be reframed. Designing the system maps and getting creative with post-it notes to highlight the areas of strength and discuss areas which overlapped or needed further consideration. Whether in workshops or sandpit events with stakeholders we have been able to share our views in coproduction alongside healthcare professionals and academics/researchers to explain and help to steer the direction SysteMatic has taken to be the best version of itself. 
 </p>
+
+![Sanpit](../assets/S2-workshop-1.JPG)
+/// caption
+Liverpool Stage 2 workshop; bringing together health professionals, Cheshire & Merseyside ICB, academics and the PPIE group to define problems and priorities for MLTC systems. 
+///
 
 <p>I asked the PPIE group to share their thoughts on how they view their impact and involvement in SysteMatic and to consider interactions they have had where they have observed shifts and changes:</p>
 
