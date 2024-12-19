@@ -74,7 +74,7 @@ markdown_extensions:
       custom_checkbox: true
   - admonition
   - pymdownx.blocks.caption
-  - footntes
+  - footnotes
 
 plugins:
   - glightbox
