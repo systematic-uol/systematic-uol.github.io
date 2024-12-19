@@ -2,7 +2,7 @@
 hide:
 - toc
 tags:
-- blog
+- Blog
 ---
 
 # A PPIE perspective on involvement in SysteMatic
