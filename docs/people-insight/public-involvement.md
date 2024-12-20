@@ -58,8 +58,14 @@ PPIE lead, Hilary, speaking at the Liverpool sandpit event.
 
 <p>The response to my feedback and reflection from the team was really positive and generated a change which is now present in the current iteration of SysteMatic, and I was told, “I think it’s an important point re location of treatment and barriers around travel and transport. It came up in the journey maps and system maps” As a result an extra dimension called ‘transportation & geographical location’ was added to the person map and is linked to ‘system navigation’ on the last page.  Further to this and validating my contribution and knowledge I was informed, “Happy to hear your thoughts and suggestions on incorporating into the person map for evolving and updating the materials. Your point is really relevant to some of the ongoing discussions around work packages and projects. I will add some notes from what you’ve said to the relevant documents so that people working on those work packages and projects can see them.” I think this example illustrates the dynamic at work in Systematic where the research/development team and PPIE are not separate entities but are integrated as working colleagues in the development of SysteMatic.  </p>
 
+<div class="grid" markdown>
+    
 ![Person map](../assets/S2-person-map.jpg)
+
 ![System navigation](../assets/system-navigation.jpg)
+
+</div>
+
 /// caption
 The [person maps](person-maps.md) & the 'system navigation' section, including the updated 'location and transportation' dimension.
 ///
