@@ -15,8 +15,6 @@ nav:
     - Public involvement: 'people-insight/public-involvement.md'
     - Patient involvement: 
       - MLTC activity books: 'people-insight/activity-book.md'
-    - Metaphors & images: 
-      - Metaphors of MLTC lived experience: 'people-insight/metaphors.md'
     - Person mapping: 
       - Extremes and mainstreams: 'people-insight/extremes-mainstreams.md'
       - Person mapping: 'people-insight/person-maps.md'
@@ -25,6 +23,8 @@ nav:
       - MLTC Journey maps: 'people-insight/journey-maps.md'
     - Systems mapping: 
       - MLTC systems actor map: 'people-insight/actor-map.md'
+    - Metaphors & images: 
+      - Metaphors of MLTC lived experience: 'people-insight/metaphors.md'
     
   - Systems Science: 
     - 'systems-science/index.md'
