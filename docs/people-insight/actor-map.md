@@ -23,10 +23,10 @@ Actor mapping is a common method[^1][^2][^3] to understand relations in a system
 
 ## Application & use
 
-<p>The process of actor mapping began with the creation of initial actor maps of the MLTC health system with the person with MLTC in the centre by researchers. Mapping a system can follow a levelled structure from the individual to the closer circle of people and to larger groups, organisations and finally to ecosystems[^4] . 
+<p>The process of actor mapping began with the creation of initial actor maps of the MLTC health system with the person with MLTC in the centre by researchers. Mapping a system can follow a levelled structure from the individual to the closer circle of people and to larger groups, organisations and finally to ecosystems.[^4]
 </p>
 
-<p>A secondary mapping activity is conducted by the researchers informed by similar projects involving health system mapping[^5] [^6] [^7] .
+<p>A secondary mapping activity is conducted by the researchers informed by similar projects involving health system mapping.[^5] [^6] [^7]
 </p>
  
 <p>The actor mapping template was then designed based on the initial and secondary mapping activities and was divided into six categories aligned with findings from the person map data collection activities: family and friends, work & education, health system, social care system, voluntary & community, and others. A three-levelled relation to the person with MLTC is indicated on the template as: frequent interaction, occasional interaction, and no direct interaction. Actors are categorised as people & organisations, Places, and Services, with people and organisations having subcategories as People with MLTC, Health & Care Professionals, Policy-funding-governance, VCSE (voluntary, community, and social enterprises).  
