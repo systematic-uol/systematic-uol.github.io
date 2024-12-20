@@ -7,7 +7,7 @@ tags:
 - Data insight
 ---
 
-# Methaphors of MLTC lived experience
+# Metaphors of MLTC lived experience
 
 ![Metaphors](../assets/S2-metaphors.jpg)
 /// caption
