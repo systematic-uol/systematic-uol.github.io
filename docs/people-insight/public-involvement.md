@@ -67,7 +67,7 @@ PPIE lead, Hilary, speaking at the Liverpool sandpit event.
 </div>
 
 /// caption
-The [person maps](person-maps.md) & the 'system navigation' section, including the updated 'location and transportation' dimension.
+Left: [person map](person-maps.md). Right: 'system navigation' section of the person map, including the updated 'location and transportation' dimension.
 ///
 
 <p>I hope this blog has allowed you to understand more about PPIE in SysteMatic and the benefits of PPIE in projects and research (if this is new to you). Also, how reflecting on involvement can reveal overtly the interactions where our PPIE insight and knowledge has impacted directly on the work or adaptations which have increased the utility and benefit of the output. Alongside this also important to consider is how has PPIE involvement been viewed and embedded by the team to be successfully integrated or conversely not!!? Within SysteMatic I am happy to share the PPIE group are considered as lived experience researchers working in coproduction as valued team members but sadly within research this is not always the case and best practice is not demonstrated. If reading this blog has given you pause for thought as a researcher to think about PPIE and how you engage this aspect within your projects or if you are a PPIE member I invite you to please reflect on that involvement to shape and influenced research grounded with that lens.</p>
