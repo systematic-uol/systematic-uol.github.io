@@ -8,7 +8,9 @@ tags:
 
 # Arts-based workshops 
 
-Using participatory arts-based methods to explore experiences of living with multiple long-term conditions, including use of healthcare.
+Using participatory arts-based methods to explore experiences of living with multiple long-term conditions, including use of healthcare.  
+
+<br>
 
 ![1](../assets/abw1.PNG)
 
