@@ -10,11 +10,13 @@ nav:
     - Navigating the Commons: 'about-systematic/commons-structure.md' 
   - Health Intelligence: 
     - 'health-intelligence/index.md'
+    - Glasgow: 'health-intelligence/glasgow.md'
   - People Insights: 
     - 'people-insight/index.md'
     - Public involvement: 'people-insight/public-involvement.md'
     - Patient involvement: 
       - MLTC activity books: 'people-insight/activity-book.md'
+      - Arts-based workshops: 'people-insight/arts-based-workshops.md'
     - Person mapping: 
       - Extremes and mainstreams: 'people-insight/extremes-mainstreams.md'
       - Person mapping: 'people-insight/person-maps.md'
