@@ -6,7 +6,7 @@ tags:
 - Data insight
 ---
 
-# Sendoary care data - Glasgow 
+# Secondary care data - Glasgow 
 
 ## Methods
 * Analysis of local data to quantify MLTC patterns & healthcare pressure points
