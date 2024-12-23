@@ -20,16 +20,15 @@ tags:
 * 1 in 6 attendees had combined mental/physical or pain MLTCs
 * All MLTC phenotypes associated with risk of reattendance, mortality, and admission
 
-![1](..assets/glasgow-hi-1.PNG)
+![1](../assets/glasgow-hi-1.PNG)
 /// caption
 Most common phenotypes (number of people affected)
 ///
 
 <br>
 
-![2](..assets/glasgow-hi-2.PNG)
+![2](../assets/glasgow-hi-2.PNG)
 /// caption
 Differences in multimorbidity phenotypes by SIMD decile by proportion 
 ///
-
 
