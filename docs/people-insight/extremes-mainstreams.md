@@ -3,7 +3,7 @@ hide:
 - toc
 tags:
 - stage 1
-- models, frameworks and strategies
+- Models, frameworks and strategies
 ---
 
 # Systemic, inclusive person mapping 
