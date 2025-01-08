@@ -15,7 +15,7 @@ tags:
 Actor map populated during Liverpool Stage 2 workshop.
 ///
 <br><br>
-:material-download: [MLTC systems actor map template](../assets/actor_map_template.pdf)
+:material-download: [MLTC systems actor map template](../assets/actor_map_template.pdf){target="_blank"}
 
 ## Overview
 
