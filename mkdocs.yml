@@ -38,8 +38,10 @@ nav:
     - Stage 2 report: 'collective-outcomes/stage-2-report.md'
     - Sandpit report: 'collective-outcomes/sandpit-report.md'
     - MLTC learning system framework: 'collective-outcomes/MLTC-learning-system-framework.md'
+  - Publications: 
+    - Protocol paper: 'publications/protocol.md'
+    - NAPCRG conference poster: 'publications/NAPCRG.md'
   - Glossary: 'glossary.md'
-  - Publications: 'publications.md'
   
 theme:
   name: material
