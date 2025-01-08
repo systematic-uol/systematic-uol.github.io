@@ -44,10 +44,10 @@ Activities in the books include: timelines, body mapping, mind mapping.
 **Encouraging creativity:** The books were physical, featuring diagrams, timelines, and spaces for activities like body mapping and mind mapping, to move beyond static question-answer formats.
 <br>
 <br>
-**Flexibility in Response:** Participants could: write and draw in the books, type responses on a computer/smartphone, share photos, videos, or voice notes.
+**Flexibility:** Participants could: write and draw in the books, type responses on a computer/smartphone, share photos, videos, or voice notes.
 <br>
 <br>
-**Supporting Engagement:** Conversations with participants were carried out beforehand to ensure clarity and encourage reflective, creative responses. Videos were also available, talking through the activity books.
+**Supported, not stand alone:** Conversations with participants were carried out beforehand to ensure clarity and encourage reflective, creative responses. Videos were also available, talking through the activity books.
 
 ### Activity books as part of a set of methods 
 
@@ -71,7 +71,7 @@ This flexibility ensured that each participant could engage in a way that aligne
 
 The activity books yielded valuable and multifaceted insights into the lives of participants living with MLTCs, providing both rich data for analysis and a meaningful experience for participants. Completing the books over time offered a deeper understanding of lived experiences, capturing evolving feelings and circumstances rather than a snapshot of a single day. Both Public Advisors and participants told us they found the process therapeutic; they valued the opportunity to pause and reflect on their lives, which they found both insightful and empowering. Participants appreciated the ability to work flexibily, and at their own pace, which was particularly valuable for individuals managing fatigue or fluctuating health. Overall, the activity books demonstrate the potential for creative and adaptable tools to uncover the nuanced, lived experiences of people navigating complex health systems. They should be offered as part of a set of flexible methods helping individuals to foster a sense of agency and control over their own participation.
 
-## Accompanying videos
+## Videos
 
 ### Living with multiple long-term conditions 
 <div>
