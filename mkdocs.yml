@@ -40,6 +40,7 @@ nav:
     - Sandpit report: 'collective-outcomes/sandpit-report.md'
     - MLTC learning system framework: 'collective-outcomes/MLTC-learning-system-framework.md'
   - Glossary: 'glossary.md'
+  - Publications: 'publications.md'
   
 theme:
   name: material
