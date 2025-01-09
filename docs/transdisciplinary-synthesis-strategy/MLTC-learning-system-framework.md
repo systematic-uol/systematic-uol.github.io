@@ -1,4 +1,6 @@
 ---
+hide:
+- toc
 tags:
 - Stage 3
 - Models, frameworks & strategies
