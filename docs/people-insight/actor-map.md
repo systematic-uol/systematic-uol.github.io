@@ -21,28 +21,31 @@ Actor map populated during Liverpool Stage 2 workshop.
 
 Actor mapping is a common method[^1][^2][^3] to understand relations in a system. Especially for systems thinking, it is essential to map all people involved in the system in order to identify points for change. Not only listing the people in the system is important, but also looking into relations and how the relations affect the whole system and each other. 
 
+
 ## Application & use
 
 The process of actor mapping began with the creation of initial actor maps of the MLTC health system with the person with MLTC in the centre by researchers. Mapping a system can follow a levelled structure from the individual to the closer circle of people and to larger groups, organisations and finally to ecosystems.[^4] 
 
+
 A secondary mapping activity is conducted by the researchers informed by similar projects involving health system mapping.[^5][^6][^7] 
 
-<p>The actor mapping template was then designed based on the initial and secondary mapping activities and was divided into six categories aligned with findings from the person map data collection activities: family and friends, work & education, health system, social care system, voluntary & community, and others. A three-levelled relation to the person with MLTC is indicated on the template as: frequent interaction, occasional interaction, and no direct interaction. Actors are categorised as people & organisations, Places, and Services, with people and organisations having subcategories as People with MLTC, Health & Care Professionals, Policy-funding-governance, VCSE (voluntary, community, and social enterprises).  
-</p>
 
-<p>A working version of the actor map was set up during the stage 2 workshop where participants were asked to modify current actors (change places, indicate relations …), add new actors and indicate their place on the map. The activity started a conversation about who was in the room and whom we were missing. 
-</p>
+The actor mapping template was then designed based on the initial and secondary mapping activities and was divided into six categories aligned with findings from the person map data collection activities: family and friends, work & education, health system, social care system, voluntary & community, and others. A three-levelled relation to the person with MLTC is indicated on the template as: frequent interaction, occasional interaction, and no direct interaction. Actors are categorised as people & organisations, Places, and Services, with people and organisations having subcategories as People with MLTC, Health & Care Professionals, Policy-funding-governance, VCSE (voluntary, community, and social enterprises).  
 
-<p>The working actor map was then digitalised with new additions and transferred to the Kumo IO platform to increase the input from a wider audience. 
-</p>
+
+A working version of the actor map was set up during the stage 2 workshop where participants were asked to modify current actors (change places, indicate relations …), add new actors and indicate their place on the map. The activity started a conversation about who was in the room and whom we were missing. 
+
+
+The working actor map was then digitalised with new additions and transferred to the Kumo IO platform to increase the input from a wider audience. 
+
 
 ## Results & insights
 
-<p>The result of this process was a co-created actor map with the possibility of being modified widely through the Kumo IO platform. Categories of actors are identified, and the frequency of interaction is highlighted as an order, which may be a key factor affecting the person’s experience with the system.
-</p> 
+The result of this process was a co-created actor map with the possibility of being modified widely through the Kumo IO platform. Categories of actors are identified, and the frequency of interaction is highlighted as an order, which may be a key factor affecting the person’s experience with the system.
 
-<p>The process also resulted in identifying missing actors in the project development process and resulted in efforts to initiate directed calls for the next steps of the projects. 
-</p>
+
+The process also resulted in identifying missing actors in the project development process and resulted in efforts to initiate directed calls for the next steps of the projects. 
+
 
 ## References
 
