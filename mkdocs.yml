@@ -32,12 +32,12 @@ nav:
     - 'systems-science/index.md'
     - 3 orders of MLTC systems science: 'systems-science/orders.md'
   - Transdisciplinary Synthesis & Strategy:
-    - 'collective-outcomes/index.md'
-    - Problem definition: 'collective-outcomes/problem-definition.md'
-    - Problem prioritisation: 'collective-outcomes/problem-prioritisation.md'
+    - 'transdisciplinary-synthesis-strategy/index.md'
+    - Problem definition: 'transdisciplinary-synthesis-strategy/problem-definition.md'
+    - Problem prioritisation: 'transdisciplinary-synthesis-strategy/problem-prioritisation.md'
     - Sandpits: 
-      - Liverpool MLTC system sandpit: 'collective-outcomes/liverpool-sandpit.md'
-    - MLTC learning system framework: 'collective-outcomes/MLTC-learning-system-framework.md'
+      - Liverpool MLTC system sandpit: 'transdisciplinary-synthesis-strategy/liverpool-sandpit.md'
+    - MLTC learning system framework: 'transdisciplinary-synthesis-strategy/MLTC-learning-system-framework.md'
   - Publications: 'publications.md'
   - Glossary: 'glossary.md'
   
