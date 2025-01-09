@@ -14,3 +14,7 @@ hide:
 ## Conferences
 
 [North American Primary Care Research Group (NAPCRG) 52nd Annual Meeting November 20-24, 2024 | Québec City Convention Center, Canada | Poster](../assets/NAPCRG.pdf){target="_blank"}
+
+
+## Reports
+
