@@ -4,7 +4,7 @@ hide:
 tags:
 - Stage 1
 - Methods & tools
-- Data insight
+- Qualitative insight
 ---
 
 # Metaphors of MLTC lived experience
