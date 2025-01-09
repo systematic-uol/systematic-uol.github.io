@@ -8,7 +8,7 @@ tags:
 
 # Problem prioritisation: A framework for where and how to intervene in the system
 
-![Prioritisation framework](../assets/prioritisation-framework.png)
+![Prioritisation framework](../assets/prioritisation-framework.jpg)
 /// caption
 Strategising where and how we might intervene in the system.
 ///
