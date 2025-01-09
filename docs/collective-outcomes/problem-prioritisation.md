@@ -1,1 +1,34 @@
+---
+hide: 
+- toc
+tags:
+- Stage 2
+- Models, frameworks and strategies
+---
 
+# Problem prioritisation: A framework for where and how to intervene in the system
+
+![Prioritisation framework](../assets/prioritisation-framework.png)
+/// caption
+Strategising where and how we might intervene in the system.
+///
+
+:material-download: [Framework template](){target="_blank"}
+
+## Overview
+
+In addressing complex, systemic problems, it is crucial to intervene at multiple levels. Instead of seeking single 'problem solutions’, the focus should be on multiple points of intervention that collectively steer the system in the desired direction, being aware that no static ‘solution’ is possible to a living evolving web of interconnected problems. The framework consists of 2 axes for considering where and how to intervene in a system. It can be used for:
+
+- Introducing & testing diverse strategies (diversified problem tackling)
+- Progressing a stream of parallel and prioritised briefs (multiple problems tackling)
+- Targeting multiple system building blocks in each brief (linked problems and building blocks tackling)
+
+## Application & use 
+
+
+
+## Results & insights 
+
+
+Read more about te framework and systemic problem prioritisation in the report below:
+:material-download: [Co-identifying and co-prioritising key challenges in MLTC systems - Liverpool - Stage 2 Report](){target="_blank"}
