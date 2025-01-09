@@ -34,5 +34,5 @@ This work is supported by funding from the National Institute for Health and Car
 Working in partnership with the NHS, universities, local government, other research funders, patients and the public, the NIHR delivers and enables world-class research that transforms people’s lives, promotes economic growth and advances science. [Find out more about the NIHR](https://www.nihr.ac.uk/)
 
 ## Contact us
-For general enquires please e-mail: [seismicstudy@liverpool.ac.uk](mailto:seismicstudy@liverpool.ac.uk)
+For general enquires please e-mail: [systematic@liverpool.ac.uk](mailto:systematic@liverpool.ac.uk)
 
