@@ -13,7 +13,7 @@ tags:
 Strategising where and how we might intervene in the system.
 ///
 
-:material-download: [Framework template](){target="_blank"}
+:material-download: [Prioritisation framework template](){target="_blank"}
 
 ## Overview
 
