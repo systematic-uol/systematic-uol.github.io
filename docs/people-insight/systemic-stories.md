@@ -3,7 +3,7 @@ hide:
 - toc
 tags:
 - Stage 1
-- Data insight
+- Qualitative insight
 - Video
 ---
 # Systemic people stories
