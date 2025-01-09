@@ -4,7 +4,7 @@ hide:
 tags:
 - Stage 1
 - Qualitative insight
-- Video
+- Animation
 ---
 # Systemic people stories
 
