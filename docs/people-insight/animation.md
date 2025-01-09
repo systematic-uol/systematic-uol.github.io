@@ -6,7 +6,9 @@ tags:
 - Qualitative insight
 - Animation
 ---
-# Animation: Juggling multiple health conditions - Roberts story
+# Animation
+
+## Juggling multiple health conditions: Roberts story
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
