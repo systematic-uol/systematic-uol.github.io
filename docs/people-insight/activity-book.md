@@ -25,6 +25,7 @@ The activity books were developed as part of a set of flexible research methods 
 <br>
 <br>
 Rooted in the cultural probe methodology, the activity books were co-developed with Public Advisors (PAs). Through iterative design and feedback cycles, we created three activity the books, tailored to specific perspectives:
+
 - Living with MLTCs
 - Caring for someone with MLTCs
 - Children & families (living with or at risk of developing MLTCs)
