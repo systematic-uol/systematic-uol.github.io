@@ -3,7 +3,7 @@ hide:
 - toc
 tags:
 - Stage 1
-- Data insight
+- Quantitative intelligence
 ---
 
 # Secondary care data - Glasgow 
