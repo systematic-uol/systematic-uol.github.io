@@ -14,7 +14,8 @@ nav:
     - Primary care data - Liverpool: 'health-intelligence/liverpool.md'
   - People Insights: 
     - 'people-insight/index.md'
-    - Public involvement: 'people-insight/public-involvement.md'
+    - Public involvement: 
+      - PPIE blog: 'people-insight/public-involvement.md'
     - Patient involvement: 
       - MLTC activity books: 'people-insight/activity-book.md'
       - Arts-based workshops: 'people-insight/arts-based-workshops.md'
