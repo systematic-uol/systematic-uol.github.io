@@ -6,7 +6,7 @@ tags:
 - Models, frameworks and strategies
 ---
 
-# Problem prioritisation
+# Problem co-prioritisation
 
 ![Prioritisation framework](../assets/prioritisation-framework.jpg)
 /// caption
