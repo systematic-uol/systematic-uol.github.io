@@ -6,7 +6,7 @@ tags:
 - Models, frameworks and strategies
 ---
 
-# Problem prioritisation: A framework for where and how to intervene in the system
+# Problem prioritisation
 
 ![Prioritisation framework](../assets/prioritisation-framework.jpg)
 /// caption
