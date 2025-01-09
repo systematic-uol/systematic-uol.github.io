@@ -36,7 +36,6 @@ nav:
     - Problem definition: 'collective-outcomes/problem-definition.md'
     - Problem prioritisation: 'collective-outcomes/problem-prioritisation.md'
     - Sandpits: 
-      - 'sandpits/index.md'
       - Liverpool MLTC system sandpit: 'collective-outcomes/liverpool-sandpit.md'
     - MLTC learning system framework: 'collective-outcomes/MLTC-learning-system-framework.md'
   - Publications: 'publications.md'
