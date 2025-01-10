@@ -54,14 +54,14 @@ The process also resulted in identifying missing actors in the project developme
 [^2]:
     Jones, P. & Van Ael, K. (2022). Actants Map. In Design Journeys through Complex Systems: Practice Tools for Systemic Design. BIS Publishers. 
 [^3]:
-    Gopal, S. & Clarke, T. (2015). Guide to Actor Mapping. [https://www.fsg.org/resource/guide-actor-mapping/](https://www.fsg.org/resource/guide-actor-mapping/)
+    Gopal, S. & Clarke, T. (2015). Guide to Actor Mapping. [https://www.fsg.org/resource/guide-actor-mapping/](https://www.fsg.org/resource/guide-actor-mapping/){target="_blank"}
 [^4]:
-    Systemic Design Toolkit. Methodology. [https://www.systemicdesigntoolkit.org/methodology](https://www.systemicdesigntoolkit.org/methodology)
+    Systemic Design Toolkit. Methodology. [https://www.systemicdesigntoolkit.org/methodology](https://www.systemicdesigntoolkit.org/methodology){target="_blank"}
 [^5]:
-    Health Systems 20/20. (2012). The Health Systems Assessment Approach: A How-To Manual. Version 2.0. [https://www.hfgproject.org/wp-content/uploads/2015/02/HSAA_Manual_Version_2_Sept_20121.pdf](https://www.hfgproject.org/wp-content/uploads/2015/02/HSAA_Manual_Version_2_Sept_20121.pdf)
+    Health Systems 20/20. (2012). The Health Systems Assessment Approach: A How-To Manual. Version 2.0. [https://www.hfgproject.org/wp-content/uploads/2015/02/HSAA_Manual_Version_2_Sept_20121.pdf](https://www.hfgproject.org/wp-content/uploads/2015/02/HSAA_Manual_Version_2_Sept_20121.pdf){target="_blank"}
 [^6]:
-    Teal, G. (2018). A Person-Centred Vision of Care for People Living with Multiple Long-Term Conditions for the Modern Outpatient Programme. The Glasgow School of Art. [https://static1.squarespace.com/static/5ab504e77c9327e5eed2778a/t/5b3645172b6a286238fd3cfc/1530283314578/MO+Final+Report+A3.pdf](https://static1.squarespace.com/static/5ab504e77c9327e5eed2778a/t/5b3645172b6a286238fd3cfc/1530283314578/MO+Final+Report+A3.pdf)
+    Teal, G. (2018). A Person-Centred Vision of Care for People Living with Multiple Long-Term Conditions for the Modern Outpatient Programme. The Glasgow School of Art. [https://static1.squarespace.com/static/5ab504e77c9327e5eed2778a/t/5b3645172b6a286238fd3cfc/1530283314578/MO+Final+Report+A3.pdf](https://static1.squarespace.com/static/5ab504e77c9327e5eed2778a/t/5b3645172b6a286238fd3cfc/1530283314578/MO+Final+Report+A3.pdf){target="_blank"}
 [^7]:
-    Miller, D. (n.d.). The UK Health System. [https://www.kumu.io/davidmiller/uk-health-system#organizations](https://www.kumu.io/davidmiller/uk-health-system#organizations)
+    Miller, D. (n.d.). The UK Health System. [https://www.kumu.io/davidmiller/uk-health-system#organizations](https://www.kumu.io/davidmiller/uk-health-system#organizations){target="_blank"}
 
 
