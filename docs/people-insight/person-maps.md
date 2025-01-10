@@ -26,6 +26,15 @@ The Person map template used for SysteMatic was informed by data from activity b
 
 The Person maps provide rich insights about people with MLTC. We think that this is important alongside the population level data that is typically used to understand and make decisions about MLTC. By adopting an equity lens, Person maps enable stakeholders to move beyond generic representations, and consider a range of people with MLTC – particularly those at the ‘extremes’.  Person maps should be contextual and co-produced within the project context - rather than using a standard template.
 
+
+Public advisor, Ali, shares her perspective on the Person maps
+
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://www.youtube.com/embed/v=XKiM1-K0pss" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  </div>
+</div>
+
 ## References
 
 [^1]: 
