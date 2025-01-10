@@ -6,7 +6,7 @@ tags:
 ---
 
 # A PPIE perspective on involvement in SysteMatic
-*A blog by Ali Bryant (Public Advisor)*
+*A blog by Ali Bryant (Public Advisor on the SysteMatic project)*
 
 ![Workshop](../assets/S2-workshop-1.JPG)
 /// caption
