@@ -33,7 +33,7 @@ The Person maps provide rich insights about people with MLTC. We think that this
 [^2]:
     Chapman, C. & Milham, R. (2006). The personas’ new clothes: Methodological and practical arguments against a popular method. Proceedings of the Human Factors and Egonomics Society Annual Meeting. 
 [^3]:
-    Price, M. (2019). Kill your personas. [https://medium.com/microsoft-design/kill-your-personas-1c332d4908cc](https://medium.com/microsoft-design/kill-your-personas-1c332d4908cc)
+    Price, M. (2019). Kill your personas. [https://medium.com/microsoft-design/kill-your-personas-1c332d4908cc](https://medium.com/microsoft-design/kill-your-personas-1c332d4908cc){target="_blank"}
 [^4]:
-    Nickpour, F. Shaw, C. Leason, I. Tibbles, A. Kille-Speckter L. (2024) Critical Inclusive Design. Design for All. [https://www.researchgate.net/publication/378071679_Design_for_All_-_Critical_Inclusive_Design](https://www.researchgate.net/publication/378071679_Design_for_All_-_Critical_Inclusive_Design)
+    Nickpour, F. Shaw, C. Leason, I. Tibbles, A. Kille-Speckter L. (2024) Critical Inclusive Design. Design for All. [https://www.researchgate.net/publication/378071679_Design_for_All_-_Critical_Inclusive_Design](https://www.researchgate.net/publication/378071679_Design_for_All_-_Critical_Inclusive_Design){target="_blank"}
 
