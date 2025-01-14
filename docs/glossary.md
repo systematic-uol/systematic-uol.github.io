@@ -12,22 +12,22 @@ hide:
 
 ## A
 **ADHD**  
-<br>Attention Deficit Hyperactivity Disorder  
+Attention Deficit Hyperactivity Disorder  
 
 <br>  
 
 **Agentic AI**  
-<br>A type of Artificial Intelligence that can act autonomously to achieve goals without constant human guidance. It uses sophisticated reasoning and iterative planning to solve complex problems.  
+A type of Artificial Intelligence that can act autonomously to achieve goals without constant human guidance. It uses sophisticated reasoning and iterative planning to solve complex problems.  
 
 <br>  
 
 **AI**  
-<br>Artificial Intelligence - a set of technologies that enable machines to perform tasks that typically need human intelligence.  
+Artificial Intelligence - a set of technologies that enable machines to perform tasks that typically need human intelligence.  
 
 <br>  
 
 **ASC**  
-<br>Autistic Spectrum Condition, also known as Autism Spectrum Disorder (ASD)  
+Autistic Spectrum Condition, also known as Autism Spectrum Disorder (ASD)  
 
 <br>  
 
