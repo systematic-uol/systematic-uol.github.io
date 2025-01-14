@@ -21,5 +21,6 @@ Our resources are primarily aimed at academic researchers and professionals who 
 All of the material in the SysteMatic Digital Commons is available through a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license. 
 
 <br>
+<br>
 
 ![logos](../assets/homepage-logos.jpg)
