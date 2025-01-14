@@ -399,7 +399,7 @@ informed decisions about self management of long term conditions.
 
 <br>
 
-**WHO**
+**WHO**  
 World Health Organisation.
 
 <br> 
