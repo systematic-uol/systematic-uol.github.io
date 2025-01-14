@@ -10,8 +10,6 @@ hide:
 	 **[Suggest here...]()**
 
 
-# Glossary of Terms – SysteMatic
-
 ## A
 **ADHD**  
 <br>Attention Deficit Hyperactivity Disorder  
