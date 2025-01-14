@@ -11,25 +11,31 @@ hide:
 	 **[Create an issue on GitHub!]()**
 
 
+<br>
 [A](#a)  |  [B](#b)  |  [C](#c)  |  [D](#d)  |  [E](#e)  |  [F](#f)  |  [G](#g)  |  [H](#h)  |  [I](#i)  |  [J](#j)  |  [K](#k)  |  [L](#l)  |  [M](#m)  |  [N](#n)  |  [O](#o)  |  [P](#p)  |  [Q](#q)  |  [R](#r)  |  [S](#s)  |  [T](#t)  |  [U](#u)  |  [V](#v)  |  [W](#w)  |  [X](#x)  |  [Y](#y)  |  [Z](#z)
 
 
 ## A
 
-### ADHD
+#### ADHD
 Attention Deficit Hyperactivity Disorder
 
-### Agentic AI 
+
+#### Agentic AI 
 A type of Artificial intelligence that can act autonomously to achieve goals without constant human guidance. It uses sophisticated reasoning and iterative planning to solve complex problems.
 
-### AI
+
+#### AI
 Artificial intelligence - a set of technologies that enable machines to perform tasks that typically need human intelligence.
 
-### ASC 
+
+#### ASC 
 Autistic Spectrum Condition also known as ASD – Autism spectrum Disorder
 
-### ARC NWC
+
+#### ARC NWC
 Applied Research Collaborative, North West Coast (NIHR funded)
+
 
 ## B
 
