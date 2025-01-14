@@ -15,11 +15,11 @@ The SysteMatic development phase followed a 5 stage design process as outlined b
 **Convene the Design Cooperative with UK-representative Assets and International Relevance**
 <br>Rapidly stand-up 3 linked working groups whose remit is described below:
 
-1. People Insights: will put a diversity of patients, practitioners, and public partners – including those seldom heard, at the centre of design. The group will consolidate lived experiences into personas, patient journeys, system maps and system failure scenarios. 
+**1. People Insights:** will put a diversity of patients, practitioners, and public partners – including those seldom heard, at the centre of design. The group will consolidate lived experiences into personas, patient journeys, system maps and system failure scenarios. 
 
-2. Health & Care Intelligence: will feed practitioners’ knowledge of MLTC segments into systems maps and failure scenarios, using local data to quantify MLTC pressures and trajectories. The group brings clinical, social care, managerial and public health professionals together with public advisors, systematically grounded with inputs from the People Insights group.
+**2. Health & Care Intelligence:** will feed practitioners’ knowledge of MLTC segments into systems maps and failure scenarios, using local data to quantify MLTC pressures and trajectories. The group brings clinical, social care, managerial and public health professionals together with public advisors, systematically grounded with inputs from the People Insights group.
    
-3. Systems Futures: will synthesise evidence for MLTC systems methodology and apply this to optimising existing services, driving innovation, and transitioning MLTC services to sustainable implementation of the right innovations. The group will draw upon thriving clusters of HealthTec industry partnerships and linked PPIE shaping new technologies and tools in Liverpool and Glasgow.
+**3. Systems Futures:** will synthesise evidence for MLTC systems methodology and apply this to optimising existing services, driving innovation, and transitioning MLTC services to sustainable implementation of the right innovations. The group will draw upon thriving clusters of HealthTec industry partnerships and linked PPIE shaping new technologies and tools in Liverpool and Glasgow.
 
 ## Stage 1
 **Deep Dives into MLTC Epidemiology, Experiences and Services in 3 Population Segments**
