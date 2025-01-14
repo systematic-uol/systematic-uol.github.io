@@ -29,9 +29,7 @@ This programme will develop new ideas for technologies, service changes and path
 Researchers are based at The University of Liverpool and University of Glasgow. We care deeply about co-developing recommendations to ensure that they are patient centred so work closely with public patient and carer representatives. 
 
 ## Funding 
-This work is supported by funding from the National Institute for Health and Care Research (NIHR) Systems Engineering Innovation hubs for Multiple long-term Conditions (SEISMIC) scheme. The development phase runs from July 2023 - December 2024, at the end of which we will apply for a full-scale Innovation Hub. NIHR's mission is to improve the health and wealth of the nation through research. The NIHR was established in 2006 and is primarily funded by the Department of Health and Social Care.
-<br><br>
-Working in partnership with the NHS, universities, local government, other research funders, patients and the public, the NIHR delivers and enables world-class research that transforms people’s lives, promotes economic growth and advances science. [Find out more about the NIHR](https://www.nihr.ac.uk/)
+This study was funded by the National Institute for Health and Care Research (NIHR) and Engineering and Physical Sciences Research Council (EPSRC) under its Systems Engineering Innovation hubs for Multiple long-term Conditions (SEISMIC) Programme (NIHR157712). The views expressed are those of the authors and not necessarily those of the NIHR or the Department of Health and Social Care.
 
 ## Contact us
 For general enquires please e-mail: [systematic@liverpool.ac.uk](mailto:systematic@liverpool.ac.uk)
