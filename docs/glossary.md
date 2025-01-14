@@ -1,7 +1,6 @@
 ---
 hide:
   - navigation
-  - toc
 ---
 
 # Glossary
@@ -84,6 +83,22 @@ NHS England approach to reducing health inequalities, which identifies the most 
 Cultural probes are an approach to qualitative user research where face-to-face research is impractical or inappropriate. They consist of prompts, questions, and instructions along with artefacts for recording thoughts and feelings. The artefacts may be as simple as a diary or as elaborate as a single-use camera.
 
 ## D
+
+#### DAAG 
+
+Data Asset and Access Group- describes a system to limit or grant access to specific data records for data security purposes 
+
+<br>
+
+#### Digital Buddies
+
+Digital Buddies were volunteers who helped, during the COVID19 pandemic, to enable older people to connect digitally with friends, family, groups & the wider world.
+
+<br>
+
+#### DynAIRx 
+
+A research study aimed at developing new, easy to use artificial intelligence tools that support the medicines optimisation in MLTCs.
 
 ## E
 
