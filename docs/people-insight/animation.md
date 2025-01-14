@@ -5,6 +5,7 @@ tags:
 - Stage 1
 - Qualitative insight
 - Animation
+- Video
 ---
 # Animation
 
