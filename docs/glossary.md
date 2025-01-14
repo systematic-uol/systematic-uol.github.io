@@ -16,110 +16,100 @@ hide:
 
 ## A
 
-#### ADHD
+##### ADHD
 Attention Deficit Hyperactivity Disorder
 
 <br>
 
-#### Agentic AI 
+##### Agentic AI 
 A type of Artificial intelligence that can act autonomously to achieve goals without constant human guidance. It uses sophisticated reasoning and iterative planning to solve complex problems.
 
 <br>
 
-#### AI
+##### AI
 Artificial intelligence - a set of technologies that enable machines to perform tasks that typically need human intelligence.
 
 <br>
 
 #### ASC 
-
 Autistic Spectrum Condition also known as ASD – Autism spectrum Disorder
 
 <br>
 
 #### ARC NWC
-
 Applied Research Collaborative, North West Coast (NIHR funded)
 
 
 ## B
 
 #### Bayesian Reasoning
-
 Also called Bayesian inference or probabilistic reasoning, it is a means of assessing probability to incorporate new information with the most accuracy. It uses a theorem to adjust initial beliefs based on the new information.
 
 <br>
 
 #### Big Data
-
 Refers to large data sets that can be studied to reveal patterns, trends, and associations.
 
 <br>
 
 #### Byres Community Hub
-
 A collaborative research hub and public space at the University of Glasgow. It houses the university’s School of Health and Wellbeing and is open to the public, charities, companies, and not-for-profit groups. The hub brings together researchers from different disciplines to encourage cross-disciplinary working.
 
 
 ## C
 
 #### Conversational AI
-
 A type of Artificial intelligence that can simulate human conversation. It uses natural language processing and machine learning to understand and respond to human language.
 
 <br>
 
 #### Core 20PLUS5
-
 NHS England approach to reducing health inequalities, which identifies the most deprived 20% of the population, based on Indices of Multiple Deprivation. PLUS identifies marginalised populations to focus on (e.g., black and minority groups, coastal communities, and other inclusion groups such as those who are homeless) and 5 clinical priority areas: Maternity, severe mental illness, chronic respiratory disease, early cancer diagnosis, and hypertension case-finding and lipid optimal management.
 
 <br>
 
 #### Cultural Probes
-
 Cultural probes are an approach to qualitative user research where face-to-face research is impractical or inappropriate. They consist of prompts, questions, and instructions along with artefacts for recording thoughts and feelings. The artefacts may be as simple as a diary or as elaborate as a single-use camera.
 
 ## D
 
 #### DAAG 
-
 Data Asset and Access Group- describes a system to limit or grant access to specific data records for data security purposes 
 
 <br>
 
 #### Digital Buddies
-
 Digital Buddies were volunteers who helped, during the COVID19 pandemic, to enable older people to connect digitally with friends, family, groups & the wider world.
 
 <br>
 
 #### DynAIRx 
-
 A research study aimed at developing new, easy to use artificial intelligence tools that support the medicines optimisation in MLTCs.
 
 ## E
 
 #### EHR 
-
 Electronic Health Record
 
 <br>
 
 #### EMIS UK 
-
 Provider of Medical Information Systems, electronic patient record systems and software used in primary and in some regions acute care.
 
 <br>
 
 #### ePRO or PRO Systems 
-
 Electronic Patient- Reported Outcome systems - tools that allow patients to record and submit their health outcomes digitally.
 
 <br>
 
-#### EPSRC – Engineering and Physical Sciences Research Council
+#### EPSRC
+Engineering and Physical Sciences Research Council
 
-Equity by Design - Equity by Design is a method for using data to identify and address equity gaps or shortfalls. It's a way to make equity gaps visible, propose interventions and evaluate interventions
+<br>
+
+#### Equity by Design 
+Equity by Design is a method for using data to identify and address equity gaps or shortfalls. It's a way to make equity gaps visible, propose interventions and evaluate interventions.
 
 ## F
 
