@@ -5,6 +5,8 @@ hide:
 
 # Glossary
 
+*Terms, phrases, acronyms used in the SysteMatic project.*  
+
 !!! question	"Have a term to add?"
 
 	 **[Suggest here...]()**
