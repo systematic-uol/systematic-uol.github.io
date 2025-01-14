@@ -18,27 +18,32 @@ hide:
 ## A
 
 #### ADHD
-	Attention Deficit Hyperactivity Disorder
 
+Attention Deficit Hyperactivity Disorder
 
+<br>
 
 #### Agentic AI 
-	A type of Artificial intelligence that can act autonomously to achieve goals without constant human guidance. It uses sophisticated reasoning and iterative planning to solve complex problems.
 
+A type of Artificial intelligence that can act autonomously to achieve goals without constant human guidance. It uses sophisticated reasoning and iterative planning to solve complex problems.
 
+<br>
 
 #### AI
-	Artificial intelligence - a set of technologies that enable machines to perform tasks that typically need human intelligence.
 
+Artificial intelligence - a set of technologies that enable machines to perform tasks that typically need human intelligence.
 
+<br>
 
 #### ASC 
-	Autistic Spectrum Condition also known as ASD – Autism spectrum Disorder
 
+Autistic Spectrum Condition also known as ASD – Autism spectrum Disorder
 
+<br>
 
 #### ARC NWC
-	Applied Research Collaborative, North West Coast (NIHR funded)
+
+Applied Research Collaborative, North West Coast (NIHR funded)
 
 
 ## B
