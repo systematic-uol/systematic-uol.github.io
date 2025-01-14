@@ -5,7 +5,7 @@ hide:
 
 # SysteMatic development phase
 
-The development phase followed a 5 stage design process as outlined below:
+The SysteMatic development phase followed a 5 stage design process as outlined below:
 ![Development stage design process](../assets/development-design-process.png) 
 <br>
 
