@@ -17,19 +17,16 @@ hide:
 ## A
 
 #### ADHD
-
 Attention Deficit Hyperactivity Disorder
 
 <br>
 
 #### Agentic AI 
-
 A type of Artificial intelligence that can act autonomously to achieve goals without constant human guidance. It uses sophisticated reasoning and iterative planning to solve complex problems.
 
 <br>
 
 #### AI
-
 Artificial intelligence - a set of technologies that enable machines to perform tasks that typically need human intelligence.
 
 <br>
@@ -102,9 +99,48 @@ A research study aimed at developing new, easy to use artificial intelligence to
 
 ## E
 
+#### EHR 
+
+Electronic Health Record
+
+<br>
+
+#### EMIS UK 
+
+Provider of Medical Information Systems, electronic patient record systems and software used in primary and in some regions acute care.
+
+<br>
+
+#### ePRO or PRO Systems 
+
+Electronic Patient- Reported Outcome systems - tools that allow patients to record and submit their health outcomes digitally.
+
+<br>
+
+#### EPSRC – Engineering and Physical Sciences Research Council
+
+Equity by Design - Equity by Design is a method for using data to identify and address equity gaps or shortfalls. It's a way to make equity gaps visible, propose interventions and evaluate interventions
+
 ## F
 
+#### Fatigue Severity Scale (FSS)
+
+A self-report questionnaire that measures the severity offatigue and it’s effect on daily life.
+
+<br>
+
+#### Federated Data 
+Federated data is a data management strategy that combines data from multiple sources into a single virtual database.
+
+<br>
+
+#### ForEquity
+Focus on Research and Equity -A suite of tools and resources developed by ARC NWCOAST to help make research evidence more relevant for action to reduce social and health inequalities. [forequity.uk](forequity.uk)
+
 ## G
+
+#### GRIPP2 
+Guidance for Reporting Involvement of Patients and Public, version 2.
 
 ## H
 
