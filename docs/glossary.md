@@ -6,9 +6,9 @@ hide:
 
 # Glossary
 
-!!! question	inline end "Have a term to add?"
+!!! question	"Have a term to add?"
 
-	 **[Create an issue on GitHub!]()**
+	 **[Suggest here...]()**
 
 
 <br>
