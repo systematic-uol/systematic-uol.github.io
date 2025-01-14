@@ -16,17 +16,17 @@ hide:
 
 ## A
 
-##### ADHD
+**ADHD**
 Attention Deficit Hyperactivity Disorder
 
 <br>
 
-##### Agentic AI 
+**Agentic AI** 
 A type of Artificial intelligence that can act autonomously to achieve goals without constant human guidance. It uses sophisticated reasoning and iterative planning to solve complex problems.
 
 <br>
 
-##### AI
+**AI**
 Artificial intelligence - a set of technologies that enable machines to perform tasks that typically need human intelligence.
 
 <br>
