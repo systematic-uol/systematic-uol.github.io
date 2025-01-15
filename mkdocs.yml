@@ -6,7 +6,7 @@ nav:
   - Home: 'index.md'
   - About: 
     - 'about-systematic/index.md'
-    - SysteMatic development phase: 'about-systematic/development-stage.md'
+    - Development phase: 'about-systematic/development-stage.md'
     - Learning from the development phase: 'about-systematic/learning-from-development-phase.md'
     - Phase two: 'about-systematic/phase-two.md'
   - Health Intelligence: 
@@ -40,7 +40,6 @@ nav:
     - Sandpit events: 
       - Liverpool sandpit: 'transdisciplinary-synthesis-strategy/liverpool-sandpit.md'
     - MLTC learning system framework: 'transdisciplinary-synthesis-strategy/MLTC-learning-system-framework.md'
-    - Stage 2 project timeline & Gantt chart: 'transdisciplinary-synthesis-strategy/S2-timeline-gantt.md'
   - Publications: 'publications.md'
   - Glossary: 'glossary.md'
   
