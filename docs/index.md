@@ -24,7 +24,7 @@ All of the material in the SysteMatic Digital Commons is available through a [C
 <br>
 
 **Navigating the commons**  
-At present, the site is organised according to the process we are adopting during the [development phase](../about-systematic/development-stage.md).  
+At present, the site is organised according to the process we are adopting during the [development phase](about-systematic/development-stage.md).
 
 <br>
 
