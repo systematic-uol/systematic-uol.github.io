@@ -85,6 +85,9 @@ markdown_extensions:
         - includes/abbreviations.md
       check_paths: True
 
+watch:
+  - includes
+
 plugins:
   - glightbox
   - search
