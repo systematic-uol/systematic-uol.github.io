@@ -17,14 +17,19 @@ hide:
 
 **Who is it for?**  
 Our resources are primarily aimed at academic researchers and professionals who are interested in systems approaches for MLTC.  
-<br>
+
+
 All of the material in the SysteMatic Digital Commons is available through a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license. 
 
 <br>
 
-**Navigating the commons**
+**Navigating the commons**  
 
-At present, the site is organised according to the process we are adopting during the development phase.
+At present, the site is organised according to the process we are adopting during the [development phase](../about-systematic/development-stage.md).  
+
+
+![Commons structure](../assets/commons-structure-navigating.png){ width=750 }
+
 <br>
 
 | Project Stage                                                       | Section of the Commons                                                                                                       |
@@ -34,8 +39,8 @@ At present, the site is organised according to the process we are adopting durin
 | Stage 2: Co-identify problems & priorities <br> Stage 3: Co-define visions & targets <br> Stage 4: Co-produce business plan    | Transdisciplinary Synthesis & Strategy [:octicons-arrow-right-24:](collective-outcomes/collective-outcomes-overview.md)    |
 
 <br>
-![Commons structure](../assets/commons-structure-navigating.png){ width=750 }
 
+**Tags**  
 
 Resources in the commons are assigned tags according to categories such as project stage and resource type. 
 <br> **[Browse the tag index here](../tags.md).** 
