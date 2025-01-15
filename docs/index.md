@@ -24,7 +24,6 @@ All of the material in the SysteMatic Digital Commons is available through a [C
 <br>
 
 **Navigating the commons**  
-
 At present, the site is organised according to the process we are adopting during the [development phase](../about-systematic/development-stage.md).  
 
 
@@ -41,9 +40,8 @@ At present, the site is organised according to the process we are adopting durin
 <br>
 
 **Tags**  
-
-Resources in the commons are assigned tags according to categories such as project stage and resource type. 
-<br> **[Browse the tag index here](../tags.md).** 
+Resources in the commons are assigned tags according to categories such as project stage and resource type.  
+**[Browse the tag index here](../tags.md).** 
 
 <br>
 <br>
