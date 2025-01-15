@@ -202,9 +202,9 @@ Large Language Model - A type of artificial intelligence that uses machine learn
 
 **LoS ALoS RLoS**  
 Commonly used acronyms referring to stay in hospital or Virtual Wards:  
-Length of stay  
-Average length of stay  
-Reduced length of stay  
+- LoS: Length of stay  
+- ALoS: Average length of stay  
+- RLoS: Reduced length of stay  
 
 <br>  
 
