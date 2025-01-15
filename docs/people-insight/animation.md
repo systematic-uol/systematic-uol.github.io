@@ -15,11 +15,7 @@ tags:
   </div>
 </div>
 
-
-
-/// caption
-Juggling multiple health conditions: Roberts story.
-///
+<p style="text-align:center;">*Juggling multiple health conditions: Roberts story*</p>
 
 ## Overview 
 
