@@ -22,5 +22,6 @@ All of the material in the SysteMatic Digital Commons is available through a [C
 
 <br>
 <br>
+<br>
 
 ![logos](../assets/homepage-logos.jpg){: style="transform: scale(0.7);"}
