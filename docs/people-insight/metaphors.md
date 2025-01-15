@@ -19,7 +19,7 @@ A set of metaphor images brought up by people living with multiple long-term con
 
 ## Application & use 
 In Stage 1, metaphors emerged from activity books, interviews, and focus groups with people with MLTC. Metaphors that were said were translated into AI-generated images and validated through a workshop which our public advisors helped to facilitate. During the workshop, participants refined existing images, generated new ones, and discussed the use of AI to represent their experiences. 
-<br><br>The resulting images were later used in our Stage 2 workshop with health, care, and VCSFE stakeholders as an icebreaker and to prompt discussion on their views of MLTC health and care systems
+<br><br>The resulting images were later used in our Stage 2 workshop with health, care, and VCFSE stakeholders as an icebreaker and to prompt discussion on their views of MLTC health and care systems
 
 ## Results & insights
 People with lived experience thought that the images helped to represent their experiences and highlighting: the burdens of daily life with MLTC; difficulties navigating a complex and unclear system; the emotional and mental toll of MLTC and the critical need for support. Participants in the workshop appreciated having a set of images, because different images resonated on different days, reflecting the shifting nature of living with MLTC. 
