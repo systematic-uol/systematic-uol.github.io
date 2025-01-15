@@ -56,20 +56,22 @@ The books were designed and developed specifically for the SysteMatic project, i
 ### Activity books as part of a set of methods 
 
 It is important to recognise that not every qualitative research method suits every individual. To accommodate diverse needs, we offered a choice of engagement methods, including activity books, workshops, and one-on-one interviews. Participants could choose one method or any combination, with support provided to help them identify the best option for their circumstances. For example, the activity books may not be appropriate for individuals with low literacy levels.  
-Examples of when the activity books were useful include: 
 
-- Participants with anxiety wich prevented them from wanting to take part in workshops or interviews; in these cases, the activity books offered a more comfortable and private alternative.
+
+Examples of when the activity books were useful/appropriate: 
+
+- Participants with social anxiety which prevented them from wanting to take part in workshops or interviews; in these cases, the activity books offered a more comfortable and private alternative.
 - Participants experiencing chronic fatigue appreciated the flexibility of being able to dip in and out of the books when they felt able, making them a less time-intensive option compared to workshops or interviews.
 - For participants selecting multiple methods, we sent them the activity books first as a tool for reflection, which helped enrich interviews and workshop discussions.
 
 
 The activities developed for the books were also adapted for other contexts, such as:
 
-- Employing the activity books as interview guides to facilitate structured yet flexible discussions.
-- Using the activities in workshops e.g. bodymapping
+- Using the activity books as interview guides to facilitate structured yet flexible discussions.
+- Using the activities in workshops e.g. bodymapping.
 
 
-This flexibility ensured that each participant could engage in a way that aligned with their preferences, abilities, and energy levels, fostering inclusivity and richer data collection.
+The flexibility offered by the set of methods ensured that each participant could engage in a way that aligned with their preferences, abilities, and energy levels, fostering inclusivity and richer data collection.
 
 ## Results & insights
 
