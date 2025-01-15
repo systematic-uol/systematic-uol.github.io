@@ -79,6 +79,9 @@ markdown_extensions:
   - admonition
   - pymdownx.blocks.caption
   - footnotes
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
 
 plugins:
   - glightbox
