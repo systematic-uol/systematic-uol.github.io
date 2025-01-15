@@ -238,7 +238,7 @@ A term commonly used in medicine to describe multiple long-term conditions. It i
 ## N
 
 **NHSA**  
-<br>Northern Health Science Alliance, an alliance with membership that includes a number of hospital trusts and universities across the North of England  
+Northern Health Science Alliance, an alliance with membership that includes a number of hospital trusts and universities across the North of England  
 
 <br>  
 
