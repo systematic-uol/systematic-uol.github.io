@@ -6,7 +6,7 @@ hide:
 
 # Outputs
 
-## Journal papers
+## Publications
 
 [Mair FS, Nickpour F, Nicholl B, et al. Developing SysteMatic: Prevention, precision and equity by design for people living with multiple long-term conditions. Journal of Multimorbidity and Comorbidity. 2024;14.](https://journals.sagepub.com/doi/10.1177/26335565241272682){target="_blank"}
 
