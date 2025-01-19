@@ -3,7 +3,7 @@ hide:
 - toc
 tags:
 - Stage 1
-- Quantitative intelligence
+- Quantitative population intelligence
 ---
 
 # Secondary care data - Glasgow 
